@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title></title>
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" href="./css/reveal.css"/>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="./css/theme/skydark.css" id="theme">
+  <!-- If the query includes 'print-pdf', include the PDF print sheet -->
+  <script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = './css/print/pdf.css';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+  </script>
+  <!--[if lt IE 9]>
+  <script src="./lib/js/html5shiv.js"></script>
+  <![endif]-->
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+
+<section class="slide level2">
+
+<!-- % CurSAR
+% 
+% Pointing in Spatial Augmented Reality from 2D Pointing Devices -->
+</section>
+<section><section id="section" class="titleslide slide level1" data-background="./img/cursar-madness.jpg"><h1></h1></section></section>
+<section><section id="what-is-sar" class="titleslide slide level1"><h1>What is SAR?</h1></section><section id="section-1" class="slide level2">
+<h1></h1>
+<p><em>Spatial</em> Augmented Reality</p>
+</section><section class="slide level2">
+
+<h3 id="augmented-reality">Augmented Reality</h3>
+<p><img src="./img/intro-mug.jpg" height="400px"> <img src="./img/intro-mug-augmented.jpg" height="400px"></p>
+<aside class="notes">
+<ul>
+<li>Let's start with augmented reality</li>
+<li>AR = combining real and virtual</li>
+<li>For example, we can augment a normal mug with different functions:
+<ul>
+<li>Displaying remaining steeping time</li>
+<li>Displaying temperature of liquid inside</li>
+<li>Handle turns green when everything is OK</li>
+</ul></li>
+</ul>
+</aside>
+</section><section class="slide level2">
+
+<!-- Video see-through -->
+<h3 id="video-see-through">Video see-through</h3>
+<p><img src="./img/intro-ar-video-see-through.png"></p>
+<aside class="notes">
+<ul>
+<li>Traditional way is to use video see-through</li>
+<li>Can also uses head mounted display</li>
+<li>However: requires hardware for user</li>
+</ul>
+</aside>
+</section><section id="section-2" class="slide level2">
+<h1></h1>
+<p>Uses projectors or screens in the environments to display information <em>spatially related</em> to this environment</p>
+<aside class="notes">
+<ul>
+<li>SAR instead uses projector or screens <em>in the environment</em></li>
+</ul>
+</aside>
+<!-- SAR -->
+</section><section id="section-3" class="slide level2" data-transition="fade">
+<h1></h1>
+<h3 id="spatial-ar">Spatial AR</h3>
+<p><img src="./img/intro-mug-sar.png"></p>
+<aside class="notes">
+<ul>
+<li>Example mug from before</li>
+<li>Normal mug + projector...</li>
+</ul>
+</aside>
+</section><section id="section-4" class="slide level2" data-transition="fade">
+<h1></h1>
+<h3 id="spatial-ar-1">Spatial AR</h3>
+<p><img src="./img/intro-mug-sar-augmented.png"></p>
+<aside class="notes">
+<ul>
+<li>Creates augmented mug</li>
+</ul>
+</aside>
+</section></section>
+<section><section id="applications" class="titleslide slide level1"><h1>Applications</h1></section><section class="slide level2">
+
+<h3 id="projection-mapping">Projection Mapping</h3>
+<p><img src="./img/VividSydney-OperaHouseSails.jpg" width="700px"> <!-- Taken from https://en.wikipedia.org/wiki/Projection_mapping#/media/File:Vivid_Sydney_-_Opera_House_sails_(9002375891).jpg --></p>
+<p><small>Source: The Sydney Opera House during the 2013 Vivid Sydney projection display</small></p>
+<aside class="notes">
+<ul>
+<li>SAR is most known as a medium used to create impressive multimedia events</li>
+<li>e.g. when projecting on buildings</li>
+</ul>
+</aside>
+</section><section class="slide level2">
+
+<h3 id="augmented-objects">Augmented Objects</h3>
+<p><img src="./img/sar-clock.jpg" height="400px"> <img src="./img/teegi-inverse-model.jpg" height="400px"></p>
+<aside class="notes">
+<ul>
+<li>It can also be used to create augmented objects</li>
+<li>In these two pictures, <em>white</em> physical objects</li>
+</ul>
+</aside>
+</section></section>
+<section><section id="what-is-it-good-for" class="titleslide slide level1"><h1>What is it good for?</h1></section><section class="slide level2">
+
+<h3 id="pros">Pros</h3>
+<ul>
+<li class="fragment">User is free</li>
+<li class="fragment">Scales well</li>
+<li class="fragment">Collaboration</li>
+<li class="fragment">Focus on <em>reality</em></li>
+</ul>
+</section><section class="slide level2">
+
+<h3 id="cons">Cons</h3>
+<ul>
+<li class="fragment">Projection surface</li>
+<li class="fragment"><em>Interaction</em></li>
+</ul>
+</section></section>
+<section><section id="interaction" class="titleslide slide level1"><h1>Interaction</h1></section><section class="slide level2">
+
+<h3 id="section-5"></h3>
+<p>How to interact with digital information hosted on physical objects?</p>
+</section><section class="slide level2">
+
+<h3 id="direct-touch">Direct Touch</h3>
+<ul>
+<li class="fragment">&quot;Natural&quot;</li>
+<li class="fragment">Anchored in reality</li>
+</ul>
+</section><section class="slide level2">
+
+<h3 id="but...">But...</h3>
+<ul>
+<li class="fragment">What if object is...
+<ul>
+<li class="fragment">Complex</li>
+<li class="fragment">Fragile</li>
+<li class="fragment">Distant</li>
+</ul></li>
+<li class="fragment">Fat finger problem</li>
+<li class="fragment">Tiring for long stretches of time</li>
+</ul>
+<aside class="notes">
+<ul>
+<li>Complex: with complex topology where you cannot touch everywhere (e.g. concave)</li>
+<li>Fragile: e.g. museum</li>
+</ul>
+</aside>
+</section><section class="slide level2">
+
+<h3 id="indirect-methods">Indirect methods</h3>
+<p>We considered using standard 2D pointing devices such as a <em>mouse</em> or a <em>graphics tablet</em></p>
+</section><section class="slide level2">
+
+<h3 id="indirect-methods-1">Indirect methods</h3>
+<ul>
+<li class="fragment">Good for prolonged work</li>
+<li class="fragment">Precise</li>
+<li class="fragment">Allow for <em>hybrid</em> applications</li>
+</ul>
+</section></section>
+<section><section id="pointing-in-sar" class="titleslide slide level1"><h1>Pointing in SAR</h1></section><section id="section-6" class="slide level2" data-transition="fade">
+<h1></h1>
+<h3 id="standard-way-of-pointing">Standard way of pointing</h3>
+<img src="./img/cursar-virtual-pointing.png" width="700px">
+<p class="fragment">
+Now what happens if...
+</p>
+</section><section id="section-7" class="slide level2" data-transition="fade">
+<h1></h1>
+<h3 id="removing-the-screen">Removing the screen</h3>
+<img src="./img/cursar-virtual-pointing-no-screen.png" width="700px">
+<p class="fragment">
+Does pointing still works without a screen?
+</p>
+</section><section id="section-8" class="slide level2" data-background="./img/cursar-teaser.jpg">
+<h1></h1>
+</section></section>
+<section><section id="study" class="titleslide slide level1"><h1>Study</h1></section><section class="slide level2">
+
+<h3 id="questions">Questions</h3>
+<p>Differences between <em>SCREEN</em> and <em>SAR</em> conditions for pointing?</p>
+<p>Does pointing in SAR follows Fitts' law?</p>
+</section><section class="slide level2">
+
+<h3 id="apparatus">Apparatus</h3>
+</section><section class="slide level2">
+
+<h3 id="section-9"></h3>
+<p><img src="./img/cursar-setup.png" width="950px" style="background:none; border:none; box-shadow:none;"></p>
+<aside class="notes">
+<ul>
+<li>A: Circle-shaped cursor that follows the geometry of the real world</li>
+<li>B: Plane onto which cursor is mapped
+<ul>
+<li>In SAR, plane is virtual</li>
+<li>In SCREEN condition, we use a wooden panel to create a screen there</li>
+</ul></li>
+<li>C: Guide displayed on the table to help know where the cursor is located</li>
+<li>D: Position of the user is known</li>
+<li>E: Projector
+<ul>
+<li>Augment real cube in SAR condition</li>
+<li>Projects a virtual cube in SCREEN condition</li>
+</ul></li>
+</ul>
+</aside>
+</section><section class="slide level2">
+
+<h3 id="screen-vs-sar">SCREEN vs SAR</h3>
+<p><img src="./img/cursar-screen.jpg" width="450px"> <img src="./img/cursar-sar.jpg" width="450px"></p>
+<aside class="notes">
+<ul>
+<li>Comparison of the view in both conditions</li>
+<li>The view of the cube is the same
+<ul>
+<li>In SCREEN condition, note the virtual table is aligned with real table</li>
+</ul></li>
+</ul>
+</aside>
+</section><section class="slide level2">
+
+<h3 id="scene">Scene</h3>
+<p><img src="./img/cursar-scene.jpg" width="700px"></p>
+<aside class="notes">
+<ul>
+<li>Scene was changing between trials</li>
+<li>Cube alone in different orientation</li>
+<li>Cube <em>and</em> a more complex shape</li>
+</ul>
+</aside>
+</section><section class="slide level2">
+
+<h3 id="procedures">Procedures</h3>
+<video data-autoplay class="stretch" src="./img/video.mp4">
+</video>
+<aside class="notes">
+<ol type="1">
+<li>Position cursor in starting zone</li>
+<li>Zone changes from red to green</li>
+<li>Target appears</li>
+<li>User go click on target</li>
+<li>Comes back to starting zone</li>
+</ol>
+</aside>
+</section><section class="slide level2">
+
+<h3 id="participants">Participants</h3>
+<ul>
+<li>16 participants</li>
+<li>Familiar with mice</li>
+<li>Little experience with graphics tablets</li>
+<li>No experience with SAR systems</li>
+</ul>
+</section><section class="slide level2">
+
+<h3 id="design">Design</h3>
+<ul>
+<li>Independent variables
+<ul>
+<li>Output
+<ul>
+<li>SCREEN</li>
+<li>SAR</li>
+</ul></li>
+<li>Input
+<ul>
+<li>MOUSE</li>
+<li>TABLET</li>
+</ul></li>
+</ul></li>
+</ul>
+</section><section class="slide level2">
+
+<h3 id="design-1">Design</h3>
+<ul>
+<li>Dependent variables
+<ul>
+<li>Completion time</li>
+<li>Inefficiency</li>
+<li>Number of errors</li>
+</ul></li>
+</ul>
+<aside class="notes">
+<ul>
+<li>Inefficiency: deviation from the most optimal path</li>
+</ul>
+</aside>
+</section></section>
+<section><section id="results" class="titleslide slide level1"><h1>Results</h1></section><section class="slide level2">
+
+<h3 id="time">Time</h3>
+<p>Users were <em>11% faster</em> using a screen vs SAR</p>
+<aside class="notes">
+<ul>
+<li>Screen faster than SAR by 11%</li>
+<li>Drop of performance not so important: still usable</li>
+<li>Screen probably provide context for interaction</li>
+<li>No dead spaces in midair for SCREEN condition</li>
+</ul>
+</aside>
+</section><section class="slide level2">
+
+<h3 id="inefficiency">Inefficiency</h3>
+<p><img class="fragment" src="./img/cursar-heatmap.png" width="950px" style="background:none; border:none; box-shadow:none;"></p>
+<aside class="notes">
+<ul>
+<li>Input modality significant effect.</li>
+<li>Tablet is <em>less</em> efficient than mouse</li>
+<li>Explained by experience with mice vs graphics tablet</li>
+<li>See heatmap figure to show example of this</li>
+</ul>
+</aside>
+</section><section class="slide level2">
+
+<h3 id="fitts-law">Fitts law</h3>
+<p><img src="./img/cursar-fitts.png" width="950px" style="background:none; border:none; box-shadow:none;"></p>
+<aside class="notes">
+<ul>
+<li>We modeled the movement time with a linear regression.</li>
+<li>Pointing task in SAR for both mice and tablets still follows Fitts' law and remain predictable</li>
+<li>Slower in SAR than SCREEN</li>
+</ul>
+<p>Note: <span class="math inline">\(R^2=0.8479\)</span></p>
+</aside>
+</section></section>
+<section><section id="whats-next" class="titleslide slide level1"><h1>What's next?</h1></section><section class="slide level2">
+
+<h3 id="professional-applications">Professional applications</h3>
+<aside class="notes">
+<ul>
+<li>Since it is possible to use 2D pointing devices in SAR w/o screen, opens possibility for professional applications that require precision for long stretches of time</li>
+</ul>
+</aside>
+</section><section class="slide level2">
+
+<h3 id="different-cursors">Different cursors</h3>
+<ul>
+<li>Perspective<span class="math inline">\(^1\)</span></li>
+<li>Ubiquitous<span class="math inline">\(^2\)</span></li>
+<li>Object-centric</li>
+</ul>
+<p><small>1: Nacenta et al. <em>&quot;Perspective Cursor: Perspective-based Interaction for Multi-display Environments&quot;</em></small> <small>2: Xiao et al. <em>&quot;Ubiquitous cursor: a comparison of direct and indirect pointing feedback in multi-display environments&quot;</em></small></p>
+</section><section class="slide level2">
+
+<h3 id="hybrid-workspaces">Hybrid workspaces</h3>
+<aside class="notes">
+<ul>
+<li>Opens up possibility for truly hybrid applications</li>
+<li>Mixes desktop + reality around workspace</li>
+</ul>
+</aside>
+</section><section id="section-10" class="slide level2" data-background="./img/cursar-teaser-drawing.jpg">
+<h1></h1>
+<aside class="notes">
+<ul>
+<li>For example, working on a traditional screen and being able to point at objects on the <em>physical desk</em> seamlessly</li>
+</ul>
+</aside>
+</section><section id="section-11" class="slide level2" data-background="./img/tangible-viewport.jpg">
+<h1></h1>
+<aside class="notes">
+<ul>
+<li>We continued our investigation varying the different way to leverage the screen context</li>
+<li>Here, we keep the screen context for interaction and interact with a physical object when it is located <em>in front of the screen</em></li>
+</ul>
+</aside>
+</section><section id="thank-you" class="slide level2" data-background="./img/logos.png">
+<h1>Thank You</h1>
+<p>renaudgervais.github.io</p>
+<p><small>These slides are available online at <br> renaudgervais.github.io/presentations</small></p>
+</section></section>
+<section><section id="section-12" class="titleslide slide level1"><h1></h1></section><section class="slide level2">
+
+<h3 id="results-1">Results</h3>
+<p><img src="./img/table.png" width="950px" style="background:none; border:none; box-shadow:none;"></p>
+</section></section>
+    </div>
+  </div>
+
+
+  <script src="./lib/js/head.min.js"></script>
+  <script src="./js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available here:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        controls: true,         // Display controls in the bottom right corner
+        progress: true,         // Display a presentation progress bar
+        history: true,          // Push each slide change to the browser history
+        center: true,                       // Vertical centering of slides
+        maxScale: 1.5,                  // Bounds for smallest/largest possible content scale
+        slideNumber: false,                // Display the page number of the current slide
+        theme: 'skydark', // available themes are in /css/theme
+        transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+        // Optional libraries used to extend on reveal.js
+        dependencies: [
+          { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+          { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+//          { src: './plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
+//          { src: './plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+]});
+    </script>
+    </body>
+</html>
