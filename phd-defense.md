@@ -1,8 +1,8 @@
-<!-- % CurSAR
 % 
-% Pointing in Spatial Augmented Reality from 2D Pointing Devices -->
+% 
+% Interaction and Introspection with Tangible Augmented Objects
 
-# {data-background="./img/cursar-madness.jpg"}
+# {data-background="./img/title.jpg"}
 
 <div class="notes">
 - Present study performance pointing task
@@ -11,6 +11,7 @@
     + Physical objects augmented using projectors
 </div>
 
+## {data-background="./img/tobe-coherence.jpg"}
 
 # What is SAR?
 
