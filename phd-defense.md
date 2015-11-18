@@ -4,14 +4,10 @@
 
 # {data-background="./img/title.jpg"}
 
-<div class="notes">
-- Present study performance pointing task
-- We use standard 2D pointing devices
-- Context of Spatial augmented reality:
-    + Physical objects augmented using projectors
-</div>
+## {data-background="./img/screen-wonderland.png"}
 
-## {data-background="./img/tobe-coherence.jpg"}
+## {data-background="./img/screen-prisoners.png"}
+
 
 # What is SAR?
 
