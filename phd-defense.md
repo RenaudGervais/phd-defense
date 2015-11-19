@@ -34,16 +34,20 @@
 - Either IN the screen our OUT in the world
 </div>
 
+---
 
-## A **Humane** Representation of Thought
+### A **Humane** Representation of Thought
 
+---
 
-## 
-We **know** how the real world works
+### We **know** how the real world works 
+
+<!-- <div class="footnote">@Weiser1991</div> -->
+
 
 ##
-<img class="fragment" src="./img/intro-mug.png" height="400px">
-<img class="fragment" src="./img/intro-mug-affordance.png" height="400px">
+<img class="fragment" src="./img/intro-mug.png" height="500px">
+<img class="fragment" src="./img/intro-mug-affordance.png" height="500px">
 
 
 # What is SAR?
