@@ -13,6 +13,6 @@ all:
 	--mathjax \
 	-V theme:"$(THEME)" \
 	-V revealjs-url:"$(REVEAL_LOCATION)" \
-	-V width:"1920" \
-	-V height:"1080" \
+	-V width:"1280" \
+	-V height:"720" \
 	-o $(OUT)
