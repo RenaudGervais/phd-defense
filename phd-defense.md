@@ -4,9 +4,46 @@
 
 # {data-background="./img/title.jpg"}
 
+
 ## {data-background="./img/screen-wonderland.png"}
+<div class="notes">
+- Digital wonderland at fingers' reach
+</div>
+
 
 ## {data-background="./img/screen-prisoners.png"}
+<div class="notes">
+- But cannot touch it
+</div>
+
+
+## Ascent of man
+<img src="./img/ascent-of-man.jpg" height="300px">
+
+<div class="notes">
+- Technology contrains our bodies
+- Only eye and fingers working
+- Bodies have been neglected
+</div>
+
+
+## Attention
+<div class="notes">
+- Devices became portable
+- But require our whole attention
+- Either IN the screen our OUT in the world
+</div>
+
+
+## A **Humane** Representation of Thought
+
+
+## 
+We **know** how the real world works
+
+##
+<img class="fragment" src="./img/intro-mug.png" height="400px">
+<img class="fragment" src="./img/intro-mug-affordance.png" height="400px">
 
 
 # What is SAR?
