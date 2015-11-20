@@ -55,10 +55,10 @@
 
 
 ## {data-transition="fade"}
-<img src="./img/intro-mug.png" height="500px">
+<img src="./img/intro-mug.png" height="500px" style="box-shadow: none; background: none;">
 
 ## {data-transition="fade"}
-<img src="./img/intro-mug-affordance.png" height="500px">
+<img src="./img/intro-mug-affordance.png" height="500px" style="box-shadow: none; background: none;">
 
 
 ## Augmented Objects
@@ -99,10 +99,14 @@ How can we use augmented objects to reveal hidden information about *our own sel
 
 ## {data-background="./img/teegi-teaser.jpg"}
 
+
 ## {data-background="./img/tobe-coherence.jpg"}
 
 
 # Augmented Reality
+
+## <!--Mixed Reality -->
+<img src="./img/mr-continuum.png" style="box-shadow: none; background: none;">
 <div class="notes">
 - Let's start with augmented reality
 - AR = combining real and virtual
