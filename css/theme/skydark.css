@@ -13,13 +13,13 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #afafaf;
-  background: -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #afafaf 100%);
-  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #afafaf));
-  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #afafaf 100%);
-  background: -o-radial-gradient(center, circle cover, #f7fbfc 0%, #afafaf 100%);
-  background: -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #afafaf 100%);
-  background: radial-gradient(center, circle cover, #f7fbfc 0%, #afafaf 100%);
+  background: #add9e4;
+  background: -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #add9e4));
+  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
+  background: -o-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
+  background: -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
+  background: radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background-color: #f7fbfc; }
 
 .reveal {
@@ -279,7 +279,16 @@ body {
  * CUSTOMS
  *********************************************/
 div.footnote {
-    /*position: fixed;*/
+    position: fixed;
     bottom: 0px;
     font-size: 0.6em;
-} 
+    font-family: 'museo300';
+}
+
+div.copyright {
+    position: fixed;
+    bottom: 0px;
+    /*left: 0px;*/
+    font-size: 0.6em;
+    font-family: 'museo300';
+}
