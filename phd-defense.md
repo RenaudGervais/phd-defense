@@ -97,6 +97,10 @@ main thread.
 How can we use augmented objects to reveal hidden information about *our own selves*?
 
 
+## {data-background="./img/teegi-teaser.jpg"}
+
+## {data-background="./img/tobe-coherence.jpg"}
+
 
 # Augmented Reality
 <div class="notes">
