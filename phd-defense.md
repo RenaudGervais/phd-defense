@@ -41,7 +41,7 @@
 </div>
 
 
-## Back to the Real World
+## <!-- Back to the Real World --> {data-background="./img/CACM-back-to-the-real-world.png"}
 <div class="notes">
 - We have evolved in the real world
 - Anchoring interaction there seems a very humane thing to do
@@ -55,10 +55,10 @@
 
 
 ## {data-transition="fade"}
-<img src="./img/intro-mug.png" height="500px" style="box-shadow: none; background: none;">
+<img src="./img/intro-mug.png" height="600px" style="box-shadow: none; background: none;">
 
 ## {data-transition="fade"}
-<img src="./img/intro-mug-affordance.png" height="500px" style="box-shadow: none; background: none;">
+<img src="./img/intro-mug-affordance.png" height="600px" style="box-shadow: none; background: none;">
 
 
 ## Augmented Objects
@@ -132,7 +132,7 @@ Uses projectors or screens *in the environments* to display information spatiall
 
 <!-- SAR -->
 ## {data-transition="fade"}
-<img src="./img/intro-mug-sar.png">
+<img src="./img/intro-mug-sar.png" style="box-shadow: none; background: none;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(5px 5px 5px #222);">
 
 <div class="notes">
 - Example mug from before
@@ -141,7 +141,7 @@ Uses projectors or screens *in the environments* to display information spatiall
 
 
 ## {data-transition="fade"}
-<img src="./img/intro-mug-sar-augmented.png">
+<img src="./img/intro-mug-sar-augmented.png" style="box-shadow: none; background: none; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);">
 
 <div class="notes">
 - Creates augmented mug
@@ -173,13 +173,15 @@ Uses projectors or screens *in the environments* to display information spatiall
 ## How does it work?
 
 
+<!-- TODO: Declutter images -->
 ## {data-background="./img/sar-pipeline.png"}
 
 
+<!-- TODO: Declutter images -->
 ## {data-background="./img/sar-pipeline-virtual.png"}
 
 
-# What is it good for?
+<!-- # What is it good for?
 
 ---
 
@@ -193,10 +195,14 @@ Uses projectors or screens *in the environments* to display information spatiall
 
 ### Cons
 - Projection surface
-- *Interaction*
+- Shadows
+- *Interaction* -->
 
 
 # Interaction
+
+
+## {data-background="./img/cursar-teaser.png"}
 
 ---
 
@@ -251,8 +257,6 @@ We considered using standard 2D pointing devices such as a *mouse* or a *graphic
 <img src="./img/cursar-virtual-pointing-no-screen.png" width="700px">
 <p class="fragment">Does pointing still works without a screen?</p>
 
-
-## {data-background="./img/cursar-teaser.jpg"}
 
 
 # Study
