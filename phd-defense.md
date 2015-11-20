@@ -59,8 +59,13 @@
 
 
 ## Augmented Objects
+<img src="./img/intro-mug.jpg" height="400px">
+<img src="./img/intro-mug-augmented.jpg" height="400px">
 <div class="notes">
-- Combines the real and the virtual
+- For example, we can augment a normal mug with different functions:
+    + Displaying remaining steeping time
+    + Displaying temperature of liquid inside
+    + Handle turns green when everything is OK
 </div>
 
 ## Interaction
@@ -71,44 +76,25 @@ How can we *interact* with digital content hosted on physical objects?
 How can we use augmented objects to reveal hidden information about *our own selves*?
 
 
-# What is SAR?
 
----
-
-## 
-*Spatial* Augmented Reality
-
----
-
-### Augmented Reality
-<img src="./img/intro-mug.jpg" height="400px">
-<img src="./img/intro-mug-augmented.jpg" height="400px">
-
+# Augmented Reality
 <div class="notes">
 - Let's start with augmented reality
 - AR = combining real and virtual
-- For example, we can augment a normal mug with different functions:
-    + Displaying remaining steeping time
-    + Displaying temperature of liquid inside
-    + Handle turns green when everything is OK
 </div>
 
----
 
-<!-- Video see-through -->
-### Video see-through
+## Video see-through
 <img src="./img/intro-ar-video-see-through.png">
-
 <div class="notes">
 - Traditional way is to use video see-through
 - Can also uses head mounted display
 - However: requires hardware for user
 </div>
 
----
 
-##
-Uses projectors or screens in the environments to display information *spatially related* to this environment
+## *Spatial* Augmented Reality
+Uses projectors or screens *in the environments* to display information spatially related to this environment
 
 <div class="notes">
 - SAR instead uses projector or screens *in the environment*
@@ -117,7 +103,6 @@ Uses projectors or screens in the environments to display information *spatially
 
 <!-- SAR -->
 ## {data-transition="fade"}
-### Spatial AR
 <img src="./img/intro-mug-sar.png">
 
 <div class="notes">
@@ -127,7 +112,6 @@ Uses projectors or screens in the environments to display information *spatially
 
 
 ## {data-transition="fade"}
-### Spatial AR 
 <img src="./img/intro-mug-sar-augmented.png">
 
 <div class="notes">
@@ -135,11 +119,7 @@ Uses projectors or screens in the environments to display information *spatially
 </div>
 
 
-# Applications
-
----
-
-### Projection Mapping
+## Projection Mapping
 <img src="./img/VividSydney-OperaHouseSails.jpg" width="700px">
 <!-- Taken from https://en.wikipedia.org/wiki/Projection_mapping#/media/File:Vivid_Sydney_-_Opera_House_sails_(9002375891).jpg -->
 
@@ -150,9 +130,8 @@ Uses projectors or screens in the environments to display information *spatially
 - e.g. when projecting on buildings
 </div>
 
----
 
-### Augmented Objects
+## Augmented Objects
 <img src="./img/sar-clock.jpg" height="400px">
 <img src="./img/teegi-inverse-model.jpg" height="400px">
 
@@ -160,6 +139,15 @@ Uses projectors or screens in the environments to display information *spatially
 - It can also be used to create augmented objects
 - In these two pictures, *white* physical objects
 </div>
+
+
+## How does it work?
+
+
+## {data-background="./img/sar-pipeline.png"}
+
+
+## {data-background="./img/sar-pipeline-virtual.png"}
 
 
 # What is it good for?
