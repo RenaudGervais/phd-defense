@@ -17,16 +17,6 @@
 </div>
 
 
-## Ascent of man
-<img src="./img/ascent-of-man.jpg" height="300px">
-
-<div class="notes">
-- Technology contrains our bodies
-- Only eye and fingers working
-- Bodies have been neglected
-</div>
-
-
 ## Attention
 <div class="notes">
 - Devices became portable
@@ -34,9 +24,25 @@
 - Either IN the screen our OUT in the world
 </div>
 
+
 ---
 
 ### A **Humane** Representation of Thought
+<img src="./img/ascent-of-man.jpg" height="300px">
+<div class="notes">
+- Technology constrain our bodies
+- Only eye and fingers working
+- Bodies have been neglected
+- Tip of finger interaction is limiting. Not humane.
+- Evolution made it so that we think *with all our senses*
+</div>
+
+
+## Back to the Real World
+<div class="notes">
+- We have evolved in the real world
+- Anchoring interaction there seems a very humane thing to do
+</div>
 
 ---
 
@@ -45,9 +51,24 @@
 <!-- <div class="footnote">@Weiser1991</div> -->
 
 
-##
-<img class="fragment" src="./img/intro-mug.png" height="500px">
-<img class="fragment" src="./img/intro-mug-affordance.png" height="500px">
+## {data-transition="fade"}
+<img src="./img/intro-mug.png" height="500px">
+
+## {data-transition="fade"}
+<img src="./img/intro-mug-affordance.png" height="500px">
+
+
+## Augmented Objects
+<div class="notes">
+- Combines the real and the virtual
+</div>
+
+## Interaction
+How can we *interact* with digital content hosted on physical objects?
+
+
+## Introspection
+How can we use augmented objects to reveal hidden information about *our own selves*?
 
 
 # What is SAR?
