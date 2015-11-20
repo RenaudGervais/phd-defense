@@ -17,12 +17,15 @@
 </div>
 
 
-## Attention
+<!-- Attention -->
+## {data-background="./img/sur-fake-5-crop.jpg"}
 <div class="notes">
 - Devices became portable
 - But require our whole attention
 - Either IN the screen our OUT in the world
 </div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div class="copyright" style="right:0px;color:rgb(255,255,255);">Source: Antoine Geiger's SUR-FAKE</div>
 
 
 ---
@@ -70,6 +73,24 @@
 
 ## Interaction
 How can we *interact* with digital content hosted on physical objects?
+
+<!-- Contribution on interaction -->
+## {data-background="./img/cursar-teaser.png"}
+<div class="notes">
+The evaluation of the use of 2D pointing devices – mouse and
+graphics tablet – in a pointing task in a SAR context compared
+to a screen condition.
+</div>
+
+
+## {data-background="./img/tports-video-teaser.png"}
+<div class="notes">
+The design, implementation and evaluation of a system enabling
+the interaction between a typical desktop computer environ-
+ment – traditional screens, mouse and keyboard – with tangible
+augmented objects, considering an object design scenario as a
+main thread.
+</div>
 
 
 ## Introspection
