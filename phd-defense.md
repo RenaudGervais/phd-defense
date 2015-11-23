@@ -57,9 +57,11 @@
 ## {data-transition="fade"}
 <img src="./img/intro-mug.png" height="600px" style="box-shadow: none; background: none;">
 
+
 ## {data-transition="fade"}
 <img src="./img/intro-mug-affordance.png" height="600px" style="box-shadow: none; background: none;">
 
+---
 
 ## Augmented Objects
 <img src="./img/intro-mug.jpg" height="400px">
@@ -71,8 +73,11 @@
     + Handle turns green when everything is OK
 </div>
 
-## Interaction
+---
+
+### Interaction
 How can we *interact* with digital content hosted on physical objects?
+
 
 <!-- Contribution on interaction -->
 ## {data-background="./img/cursar-teaser.png"}
@@ -92,8 +97,9 @@ augmented objects, considering an object design scenario as a
 main thread.
 </div>
 
+---
 
-## Introspection
+### Introspection
 How can we use augmented objects to reveal hidden information about *our own selves*?
 
 
@@ -103,37 +109,46 @@ How can we use augmented objects to reveal hidden information about *our own sel
 ## {data-background="./img/tobe-coherence.jpg"}
 
 
+
 <!-- Related work -->
 # Context
 
-## Related Areas
+---
+
+### Related Areas
 - Ubiquitous Computing & Calm Technologies
 - Physiological & Affective Computing
 - Tangible User Interfaces
 - Augmented Reality
 
+---
 
-## Ubicomp & Calm Technologies
+### Ubicomp & Calm Technologies
 
+---
 
-## Physiological & Affective Computing
+### Physiological & Affective Computing
 
+---
 
-## Tangible User Interfaces
+### Tangible User Interfaces
 
+---
 
-## Augmented Reality
-
-
-## <!--Mixed Reality -->
+### <!--Mixed Reality -->
 <img src="./img/mr-continuum.png" style="box-shadow: none; background: none;">
 <div class="notes">
 - Let's start with augmented reality
 - AR = combining real and virtual
 </div>
 
+---
 
-## Video see-through
+### Augmented Reality
+
+---
+
+### Video see-through
 <img src="./img/intro-ar-video-see-through.png">
 <div class="notes">
 - Traditional way is to use video see-through
@@ -141,8 +156,9 @@ How can we use augmented objects to reveal hidden information about *our own sel
 - However: requires hardware for user
 </div>
 
+---
 
-## *Spatial* Augmented Reality
+### *Spatial* Augmented Reality
 Uses projectors or screens *in the environments* to display information spatially related to this environment
 
 <div class="notes">
@@ -168,8 +184,9 @@ Uses projectors or screens *in the environments* to display information spatiall
 - Creates augmented mug
 </div>
 
+---
 
-## Projection Mapping
+### Projection Mapping
 <img src="./img/VividSydney-OperaHouseSails.jpg" width="700px">
 <!-- Taken from https://en.wikipedia.org/wiki/Projection_mapping#/media/File:Vivid_Sydney_-_Opera_House_sails_(9002375891).jpg -->
 
@@ -180,8 +197,9 @@ Uses projectors or screens *in the environments* to display information spatiall
 - e.g. when projecting on buildings
 </div>
 
+---
 
-## Augmented Objects
+### Augmented Objects
 <img src="./img/sar-clock.jpg" height="400px">
 <img src="./img/teegi-inverse-model.jpg" height="400px">
 
@@ -190,8 +208,9 @@ Uses projectors or screens *in the environments* to display information spatiall
 - In these two pictures, *white* physical objects
 </div>
 
+---
 
-## How does it work?
+### How does it work?
 
 
 <!-- TODO: Declutter images -->
@@ -201,23 +220,30 @@ Uses projectors or screens *in the environments* to display information spatiall
 <!-- TODO: Declutter images -->
 ## {data-background="./img/sar-pipeline-virtual.png"}
 
+---
 
-<!-- # What is it good for?
+### What is it good for?
 
 ---
 
 ### Pros
+- Anchored in the *real world*
 - User is free
 - Scales well 
 - Collaboration 
-- Focus on *reality* 
 
 ---
 
 ### Cons
 - Projection surface
 - Shadows
-- *Interaction* -->
+- Complexity
+- *Interaction*
+- 
+<div class="notes">
+Complexity: Calibration with multiple devices (esp. /w multi-proj setup)
+</div>
+
 
 
 # Interaction
