@@ -239,7 +239,6 @@ Uses projectors or screens *in the environments* to display information spatiall
 - Shadows
 - Complexity
 - *Interaction*
-- 
 <div class="notes">
 Complexity: Calibration with multiple devices (esp. /w multi-proj setup)
 </div>
@@ -251,11 +250,29 @@ Complexity: Calibration with multiple devices (esp. /w multi-proj setup)
 
 ## {data-background="./img/cursar-teaser.png"}
 
+<div class="notes">
+- We focus on the creation of *hybrid environments*
+- Desktop computers are still good platforms for content creation
+</div>
+
 ---
 
-### 
-How to interact with digital information hosted on physical objects?
+### Indirect pointing methods
+Using standard 2D pointing devices such as a *mouse* or a *graphics tablet*
 
+---
+
+### Indirect pointing methods
+- Good for prolonged work
+- Precise
+- Allow for *hybrid* applications
+- Works with objects that are:
+    + Complex
+    + Fragile
+    + Distant
+
+
+<!--
 ---
 
 ### Direct Touch
@@ -276,21 +293,10 @@ How to interact with digital information hosted on physical objects?
 - Complex: with complex topology where you cannot touch everywhere (e.g. concave)
 - Fragile: e.g. museum
 </div>
-
----
-
-### Indirect methods
-We considered using standard 2D pointing devices such as a *mouse* or a *graphics tablet*
-
----
-
-### Indirect methods
-- Good for prolonged work
-- Precise
-- Allow for *hybrid* applications
+-->
 
 
-# Pointing in SAR
+## Pointing in SAR
 
 
 ## {data-transition="fade"}
@@ -305,8 +311,7 @@ We considered using standard 2D pointing devices such as a *mouse* or a *graphic
 <p class="fragment">Does pointing still works without a screen?</p>
 
 
-
-# Study
+## Study
 
 ---
 
@@ -405,7 +410,7 @@ Does pointing in SAR follows Fitts' law?
 
 
 
-# Results
+## Results
 
 ---
 
@@ -439,36 +444,11 @@ Users were *11% faster* using a screen vs SAR
 - We modeled the movement time with a linear regression.
 - Pointing task in SAR for both mice and tablets still follows Fitts' law and remain predictable
 - Slower in SAR than SCREEN
+- More XP to evaluate learning effect
 
 Note: $R^2=0.8479$
 </div>
 
-
-
-
-# What's next?
-<div class="notes">
-- More work required to test these hypotheses
-- Moreover... (applications)
-</div>
-
----
-
-### Professional applications
-<div class="notes">
-- Since it is possible to use 2D pointing devices in SAR w/o screen, opens possibility for professional applications that require precision for long stretches of time
-</div>
-
----
-
-### Different cursors
->- Perspective$^1$
->- Ubiquitous$^2$
->- Object-centric
-
-
-<small>1: Nacenta et al. *"Perspective Cursor: Perspective-based Interaction for Multi-display Environments"*</small>
-<small>2: Xiao et al. *"Ubiquitous cursor: a comparison of direct and indirect pointing feedback in multi-display environments"*</small>
 
 ---
 
@@ -481,13 +461,9 @@ Note: $R^2=0.8479$
 
 ---
 
-## {data-background="./img/cursar-teaser-drawing.jpg"}
 
-<div class="notes">
-- For example, working on a traditional screen and being able to point at objects on the *physical desk* seamlessly
-</div>
+## Tangible Viewports
 
----
 
 ## {data-background="./img/tangible-viewport.jpg"}
 
@@ -495,6 +471,15 @@ Note: $R^2=0.8479$
 - We continued our investigation varying the different way to leverage the screen context
 - Here, we keep the screen context for interaction and interact with a physical object when it is located *in front of the screen*
 </div>
+
+
+
+
+
+
+
+
+
 
 
 ## Thank You {data-background="./img/logos.png"}

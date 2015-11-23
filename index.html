@@ -232,10 +232,10 @@ Source: Antoine Geiger's SUR-FAKE
 
 <h3 id="pros">Pros</h3>
 <ul>
+<li class="fragment">Anchored in the <em>real world</em></li>
 <li class="fragment">User is free</li>
 <li class="fragment">Scales well</li>
 <li class="fragment">Collaboration</li>
-<li class="fragment">Focus on <em>reality</em></li>
 </ul>
 </section><section class="slide level2">
 
@@ -243,70 +243,80 @@ Source: Antoine Geiger's SUR-FAKE
 <ul>
 <li class="fragment">Projection surface</li>
 <li class="fragment">Shadows</li>
-<li class="fragment"><em>Interaction</em></li>
+<li class="fragment">Complexity</li>
+<li class="fragment"><em>Interaction</em>
+<aside class="notes">
+<p>Complexity: Calibration with multiple devices (esp. /w multi-proj setup)</p>
+</aside></li>
 </ul>
 </section></section>
 <section><section id="interaction-1" class="titleslide slide level1"><h1>Interaction</h1></section><section id="section-16" class="slide level2" data-background="./img/cursar-teaser.png">
 <h1></h1>
-</section><section class="slide level2">
-
-<h3 id="section-17"></h3>
-<p>How to interact with digital information hosted on physical objects?</p>
-</section><section class="slide level2">
-
-<h3 id="direct-touch">Direct Touch</h3>
+<aside class="notes">
 <ul>
-<li class="fragment">&quot;Natural&quot;</li>
-<li class="fragment">Anchored in reality</li>
+<li>We focus on the creation of <em>hybrid environments</em></li>
+<li>Desktop computers are still good platforms for content creation</li>
 </ul>
+</aside>
 </section><section class="slide level2">
 
-<h3 id="but...">But...</h3>
+<h3 id="indirect-pointing-methods">Indirect pointing methods</h3>
+<p>Using standard 2D pointing devices such as a <em>mouse</em> or a <em>graphics tablet</em></p>
+</section><section class="slide level2">
+
+<h3 id="indirect-pointing-methods-1">Indirect pointing methods</h3>
 <ul>
-<li class="fragment">What if object is...
+<li class="fragment">Good for prolonged work</li>
+<li class="fragment">Precise</li>
+<li class="fragment">Allow for <em>hybrid</em> applications</li>
+<li class="fragment">Works with objects that are:
 <ul>
 <li class="fragment">Complex</li>
 <li class="fragment">Fragile</li>
 <li class="fragment">Distant</li>
 </ul></li>
-<li class="fragment">Fat finger problem</li>
-<li class="fragment">Tiring for long stretches of time</li>
 </ul>
-<aside class="notes">
-<ul>
-<li>Complex: with complex topology where you cannot touch everywhere (e.g. concave)</li>
-<li>Fragile: e.g. museum</li>
-</ul>
-</aside>
-</section><section class="slide level2">
+<!--
+---
 
-<h3 id="indirect-methods">Indirect methods</h3>
-<p>We considered using standard 2D pointing devices such as a <em>mouse</em> or a <em>graphics tablet</em></p>
-</section><section class="slide level2">
+### Direct Touch
+- "Natural"
+- Anchored in reality
 
-<h3 id="indirect-methods-1">Indirect methods</h3>
-<ul>
-<li class="fragment">Good for prolonged work</li>
-<li class="fragment">Precise</li>
-<li class="fragment">Allow for <em>hybrid</em> applications</li>
-</ul>
-</section></section>
-<section><section id="pointing-in-sar" class="titleslide slide level1"><h1>Pointing in SAR</h1></section><section id="section-18" class="slide level2" data-transition="fade">
+---
+
+### But...
+- What if object is...
+    + Complex
+    + Fragile
+    + Distant
+- Fat finger problem
+- Tiring for long stretches of time
+
+<div class="notes">
+- Complex: with complex topology where you cannot touch everywhere (e.g. concave)
+- Fragile: e.g. museum
+</div>
+-->
+</section><section id="pointing-in-sar" class="slide level2">
+<h1>Pointing in SAR</h1>
+</section><section id="section-17" class="slide level2" data-transition="fade">
 <h1></h1>
 <h3 id="standard-way-of-pointing">Standard way of pointing</h3>
 <img src="./img/cursar-virtual-pointing.png" width="700px">
 <p class="fragment">
 Now what happens if...
 </p>
-</section><section id="section-19" class="slide level2" data-transition="fade">
+</section><section id="section-18" class="slide level2" data-transition="fade">
 <h1></h1>
 <h3 id="removing-the-screen">Removing the screen</h3>
 <img src="./img/cursar-virtual-pointing-no-screen.png" width="700px">
 <p class="fragment">
 Does pointing still works without a screen?
 </p>
-</section></section>
-<section><section id="study" class="titleslide slide level1"><h1>Study</h1></section><section class="slide level2">
+</section><section id="study" class="slide level2">
+<h1>Study</h1>
+</section><section class="slide level2">
 
 <h3 id="questions">Questions</h3>
 <p>Differences between <em>SCREEN</em> and <em>SAR</em> conditions for pointing?</p>
@@ -316,7 +326,7 @@ Does pointing still works without a screen?
 <h3 id="apparatus">Apparatus</h3>
 </section><section class="slide level2">
 
-<h3 id="section-20"></h3>
+<h3 id="section-19"></h3>
 <p><img src="./img/cursar-setup.png" width="950px" style="background:none; border:none; box-shadow:none;"></p>
 <aside class="notes">
 <ul>
@@ -416,8 +426,9 @@ Does pointing still works without a screen?
 <li>Inefficiency: deviation from the most optimal path</li>
 </ul>
 </aside>
-</section></section>
-<section><section id="results" class="titleslide slide level1"><h1>Results</h1></section><section class="slide level2">
+</section><section id="results" class="slide level2">
+<h1>Results</h1>
+</section><section class="slide level2">
 
 <h3 id="time">Time</h3>
 <p>Users were <em>11% faster</em> using a screen vs SAR</p>
@@ -450,27 +461,10 @@ Does pointing still works without a screen?
 <li>We modeled the movement time with a linear regression.</li>
 <li>Pointing task in SAR for both mice and tablets still follows Fitts' law and remain predictable</li>
 <li>Slower in SAR than SCREEN</li>
+<li>More XP to evaluate learning effect</li>
 </ul>
 <p>Note: <span class="math inline">\(R^2=0.8479\)</span></p>
 </aside>
-</section></section>
-<section><section id="whats-next" class="titleslide slide level1"><h1>What's next?</h1></section><section class="slide level2">
-
-<h3 id="professional-applications">Professional applications</h3>
-<aside class="notes">
-<ul>
-<li>Since it is possible to use 2D pointing devices in SAR w/o screen, opens possibility for professional applications that require precision for long stretches of time</li>
-</ul>
-</aside>
-</section><section class="slide level2">
-
-<h3 id="different-cursors">Different cursors</h3>
-<ul>
-<li>Perspective<span class="math inline">\(^1\)</span></li>
-<li>Ubiquitous<span class="math inline">\(^2\)</span></li>
-<li>Object-centric</li>
-</ul>
-<p><small>1: Nacenta et al. <em>&quot;Perspective Cursor: Perspective-based Interaction for Multi-display Environments&quot;</em></small> <small>2: Xiao et al. <em>&quot;Ubiquitous cursor: a comparison of direct and indirect pointing feedback in multi-display environments&quot;</em></small></p>
 </section><section class="slide level2">
 
 <h3 id="hybrid-workspaces">Hybrid workspaces</h3>
@@ -480,14 +474,9 @@ Does pointing still works without a screen?
 <li>Mixes desktop + reality around workspace</li>
 </ul>
 </aside>
-</section><section id="section-21" class="slide level2" data-background="./img/cursar-teaser-drawing.jpg">
-<h1></h1>
-<aside class="notes">
-<ul>
-<li>For example, working on a traditional screen and being able to point at objects on the <em>physical desk</em> seamlessly</li>
-</ul>
-</aside>
-</section><section id="section-22" class="slide level2" data-background="./img/tangible-viewport.jpg">
+</section><section id="tangible-viewports" class="slide level2">
+<h1>Tangible Viewports</h1>
+</section><section id="section-20" class="slide level2" data-background="./img/tangible-viewport.jpg">
 <h1></h1>
 <aside class="notes">
 <ul>
@@ -500,7 +489,7 @@ Does pointing still works without a screen?
 <p>renaudgervais.github.io</p>
 <p><small>These slides are available online at <br> renaudgervais.github.io/presentations</small></p>
 </section></section>
-<section><section id="section-23" class="titleslide slide level1"><h1></h1></section><section class="slide level2">
+<section><section id="section-21" class="titleslide slide level1"><h1></h1></section><section class="slide level2">
 
 <h3 id="results-1">Results</h3>
 <p><img src="./img/table.png" width="950px" style="background:none; border:none; box-shadow:none;"></p>
