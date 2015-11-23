@@ -103,7 +103,27 @@ How can we use augmented objects to reveal hidden information about *our own sel
 ## {data-background="./img/tobe-coherence.jpg"}
 
 
-# Augmented Reality
+<!-- Related work -->
+# Context
+
+## Related Areas
+- Ubiquitous Computing & Calm Technologies
+- Physiological & Affective Computing
+- Tangible User Interfaces
+- Augmented Reality
+
+
+## Ubicomp & Calm Technologies
+
+
+## Physiological & Affective Computing
+
+
+## Tangible User Interfaces
+
+
+## Augmented Reality
+
 
 ## <!--Mixed Reality -->
 <img src="./img/mr-continuum.png" style="box-shadow: none; background: none;">
@@ -127,6 +147,7 @@ Uses projectors or screens *in the environments* to display information spatiall
 
 <div class="notes">
 - SAR instead uses projector or screens *in the environment*
+- Link with Ubicomp
 </div>
 
 
