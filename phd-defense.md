@@ -479,6 +479,8 @@ Note: $R^2=0.8479$
 </div>
 
 
+## {data-background-video="./img/tports.mp4"}
+<!-- <video controls src="./img/tports.mp4"></video> -->
 
 
 
@@ -486,8 +488,7 @@ Note: $R^2=0.8479$
 
 
 
-
-## Thank You {data-background="./img/logos.png"}
+# Thank You {data-background="./img/logos.png"}
 renaudgervais.github.io
 
 <small>These slides are available online at <br> renaudgervais.github.io/presentations</small>
