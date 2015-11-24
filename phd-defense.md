@@ -450,8 +450,8 @@ Note: $R^2=0.8479$
 </div>
 
 
----
 
+## {data-background="./img/cursar-teaser.png"}
 ### Hybrid workspaces
 
 <div class="notes">
@@ -479,8 +479,8 @@ Note: $R^2=0.8479$
 </div>
 
 
-## {data-background-video="./img/tports.mp4"}
-<!-- <video controls src="./img/tports.mp4"></video> -->
+## 
+<video controls src="./img/tports.mp4"></video>
 
 
 
