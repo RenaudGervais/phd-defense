@@ -296,7 +296,7 @@ Using standard 2D pointing devices such as a *mouse* or a *graphics tablet*
 -->
 
 
-## Pointing in SAR
+# Pointing in SAR
 
 
 ## {data-transition="fade"}
@@ -462,16 +462,21 @@ Note: $R^2=0.8479$
 ---
 
 
-## Tangible Viewports
+# Tangible Viewports
 
 
-## {data-background="./img/tangible-viewport.jpg"}
+## {data-background="./img/tports-video-teaser.png" data-transition="fade"}
 
 <div class="notes">
 - We continued our investigation varying the different way to leverage the screen context
 - Here, we keep the screen context for interaction and interact with a physical object when it is located *in front of the screen*
 </div>
 
+
+## {data-background="./img/tports-video-teaser-highlight.png" data-transition="fade"}
+<div class="notes">
+- Focus on hybrid environment
+</div>
 
 
 
