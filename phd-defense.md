@@ -438,7 +438,7 @@ Users were *11% faster* using a screen vs SAR
 ---
 
 ### Fitts law
-<img src="./img/cursar-fitts.png" width="950px" style="background:none; border:none; box-shadow:none;">
+<img src="./img/cursar-fitts-crop.png" height="500px" style="background:none; border:none; box-shadow:none;">
 
 <div class="notes">
 - We modeled the movement time with a linear regression.
