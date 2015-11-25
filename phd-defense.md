@@ -136,7 +136,7 @@ How can we use augmented objects to reveal hidden information about *our own sel
 ---
 
 ### <!--Mixed Reality -->
-<img src="./img/mr-continuum.png" style="box-shadow: none; background: none;">
+<img src="./img/mr-continuum.png" style="-webkit-filter: none; filter: none;">
 <div class="notes">
 - Let's start with augmented reality
 - AR = combining real and virtual
@@ -169,7 +169,7 @@ Uses projectors or screens *in the environments* to display information spatiall
 
 <!-- SAR -->
 ## {data-transition="fade"}
-<img src="./img/intro-mug-sar.png" style="box-shadow: none; background: none;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(5px 5px 5px #222);">
+<img src="./img/intro-mug-sar.png">
 
 <div class="notes">
 - Example mug from before
@@ -178,7 +178,7 @@ Uses projectors or screens *in the environments* to display information spatiall
 
 
 ## {data-transition="fade"}
-<img src="./img/intro-mug-sar-augmented.png" style="box-shadow: none; background: none; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);">
+<img src="./img/intro-mug-sar-augmented.png">
 
 <div class="notes">
 - Creates augmented mug
@@ -481,6 +481,34 @@ Note: $R^2=0.8479$
 
 ## 
 <video controls src="./img/tports.mp4"></video>
+
+
+---
+
+### Metaphor
+<img src="./img/tports-cursor-application.png" height="500px">
+<div class="notes">
+Working on a physical object becomes the same thing as working on a virtual version in a window
+</div>
+
+---
+
+### Pointing technique
+<img src="./img/tports-cursor.png" height="500px">
+<div class="notes">
+- Same as with CurSAR
+- Screen is tracked
+- Behavior of cursor is coherent only for operator
+- Cursor is visible by *everyone*
+</div>
+
+---
+
+## Applications
+
+---
+
+### Painting
 
 
 
