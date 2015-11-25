@@ -301,13 +301,13 @@ Using standard 2D pointing devices such as a *mouse* or a *graphics tablet*
 
 ## {data-transition="fade"}
 ### Standard way of pointing
-<img src="./img/cursar-virtual-pointing.png" width="700px">
+<img src="./img/cursar-virtual-pointing.png" height="500px">
 <p class="fragment">Now what happens if...</p>
 
 
 ## {data-transition="fade"}
 ### Removing the screen
-<img src="./img/cursar-virtual-pointing-no-screen.png" width="700px">
+<img src="./img/cursar-virtual-pointing-no-screen.png" height="500px">
 <p class="fragment">Does pointing still works without a screen?</p>
 
 
@@ -320,13 +320,19 @@ Differences between *SCREEN* and *SAR* conditions for pointing?
 
 Does pointing in SAR follows Fitts' law?
 
+
+## {data-transition="fade"}
+### Pointing technique
+<img src="./img/cursar-virtual-pointing.png" height="500px">
+
+
+## {data-transition="fade"}
+### Pointing technique
+<img src="./img/cursar-virtual-pointing-window.png" height="500px">
+
 ---
 
 ### Apparatus
-
----
-
-### 
 <img src="./img/cursar-setup.png" width="950px" style="background:none; border:none; box-shadow:none;">
 
 <div class="notes">
