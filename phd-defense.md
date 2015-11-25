@@ -509,8 +509,20 @@ Working on a physical object becomes the same thing as working on a virtual vers
 ---
 
 ### Painting
+<img src="./img/tports-direct-painting.jpg" height="500px">
 
+---
 
+### Programming Augmented Objects
+<img src="./img/tports-screen-vvvv.jpg" height="500px">
+
+---
+
+### Objects in Sync
+<div>
+<img src="./img/tports-synchro-sync.jpg" height="500px">
+<img src="./img/tports-synchro-heatmap.jpg" height="500px">
+</div>
 
 
 
