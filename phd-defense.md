@@ -373,7 +373,7 @@ Does pointing in SAR follows Fitts' law?
 ---
 
 ### Procedures
-<video data-autoplay class="stretch" src="./img/video.mp4"></video>
+<video data-autoplay controls class="stretch" src="./img/video.mp4"></video>
 
 <div class="notes">
 1. Position cursor in starting zone
@@ -394,21 +394,7 @@ Does pointing in SAR follows Fitts' law?
 ---
 
 ### Design
->- Independent variables
-    + Output
-        * SCREEN
-        * SAR
-    + Input
-        * MOUSE
-        * TABLET
-
----
-
-### Design
->- Dependent variables
-    + Completion time
-    + Inefficiency
-    + Number of errors
+<img src="./img/cursar-study-design.png" height="650px" style="-webkit-filter: none; filter: none;">
 
 <div class="notes">
 - Inefficiency: deviation from the most optimal path
