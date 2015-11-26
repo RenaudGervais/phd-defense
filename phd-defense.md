@@ -538,10 +538,8 @@ How to use these augmented objects to better know ourselves and others better?
 - Current tools are complex and difficult to approach
 </div>
 
----
 
-###
-<img src="./img/teegi-inverse-model.jpg" height="700px">
+## {data-background="./img/teegi-alison.jpg"}
 <div class="notes">
 - let users explore their *own* brain
 - in *real-time*
