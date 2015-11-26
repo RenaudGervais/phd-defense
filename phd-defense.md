@@ -177,19 +177,6 @@ Uses projectors or screens *in the environments* to display information spatiall
 
 ---
 
-### Projection Mapping
-<img src="./img/VividSydney-OperaHouseSails.jpg" width="700px">
-<!-- Taken from https://en.wikipedia.org/wiki/Projection_mapping#/media/File:Vivid_Sydney_-_Opera_House_sails_(9002375891).jpg -->
-
-<small>Source: The Sydney Opera House during the 2013 Vivid Sydney projection display</small>
- 
-<div class="notes">
-- SAR is most known as a medium used to create impressive multimedia events
-- e.g. when projecting on buildings
-</div>
-
----
-
 ### Augmented Objects
 <img src="./img/sar-clock.jpg" height="400px">
 <img src="./img/teegi-inverse-model.jpg" height="400px">
