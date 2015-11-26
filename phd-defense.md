@@ -584,6 +584,10 @@ How to use these augmented objects to better know ourselves and others better?
 ### Exploratory Study
 <img src="./img/teegi-questions.jpg" height="600px">
 
+---
+
+### Teegi Disco
+
 
 
 
