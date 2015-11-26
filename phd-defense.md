@@ -129,14 +129,11 @@ How can we use augmented objects to reveal hidden information about *our own sel
 
 ---
 
-### <!--Mixed Reality -->
-<img src="./img/mr-continuum.png" style="-webkit-filter: none; filter: none;">
-<div class="notes">
-- Let's start with augmented reality
-- AR = combining real and virtual
-</div>
+### Organic User Interfaces
+<img src="./img/dynacan-oui.jpg" height="500px">
 
 ---
+
 
 ### Augmented Reality
 
