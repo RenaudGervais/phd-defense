@@ -125,6 +125,7 @@ How can we use augmented objects to reveal hidden information about *our own sel
 ---
 
 ### Tangible User Interfaces
+<img src="./img/radical-atoms.png" height="500px">
 
 ---
 
