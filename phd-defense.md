@@ -571,9 +571,18 @@ How to use these augmented objects to better know ourselves and others better?
 
 ---
 
-### Exposing the Signal Processing Process
+### Exposing the Signal Processing
 <img src="./img/teegi-signal-table.jpg" height="500px">
 
+---
+
+### Installation
+<img src="./img/teegi-setup-drawing.png" height="600px">
+
+---
+
+### Exploratory Study
+<img src="./img/teegi-questions.jpg" height="600px">
 
 
 
