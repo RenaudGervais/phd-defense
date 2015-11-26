@@ -502,7 +502,9 @@ Working on a physical object becomes the same thing as working on a virtual vers
 How to use these augmented objects to better know ourselves and others better?
 </div>
 
-## Collaboration
+---
+
+### Collaboration
 <img src="./img/teegi-jeremy.jpg" height="500px">
 
 
@@ -529,6 +531,28 @@ How to use these augmented objects to better know ourselves and others better?
 ### Objectives
 - What can EEG measure?
 - How does the brain work?
+
+
+## {data-background="./img/teegi-eeg-tools.png"}
+<div class="notes">
+- Current tools are complex and difficult to approach
+</div>
+
+---
+
+###
+<img src="./img/teegi-inverse-model.jpg" height="700px">
+<div class="notes">
+- let users explore their *own* brain
+- in *real-time*
+</div>
+
+
+## {data-background-video="./img/teegi.mp4"}
+
+
+
+
 
 
 
