@@ -497,6 +497,41 @@ Working on a physical object becomes the same thing as working on a virtual vers
 
 
 
+# Introspection {data-background="./img/tobe-coherence-wo-title.png"}
+<div class="notes">
+How to use these augmented objects to better know ourselves and others better?
+</div>
+
+## Collaboration
+<img src="./img/teegi-jeremy.jpg" height="500px">
+
+
+## {data-background="./img/teegi-big-head-whats-inside.png"}
+<div class="notes">
+- Do you know what is happening in your brain right now?
+- Brain is interesting because except for the nagging little voice that is always there, we have no idea of what is currently going on in there
+</div>
+
+---
+
+### EEG
+<img src="./img/gtec_headset.jpg" height="500px">
+<div class="notes">
+- EEG: ElectroEncephaloGraphy
+- Measures electrical activity at the surface of the scalp
+- Can be used for
+  - Active control (BCIs): thinking about hand movements or imagining mental rotations
+  - Passive measurements
+</div>
+
+
+## {data-background="./img/teegi-big-head-whats-inside-no-question.png"}
+### Objectives
+- What can EEG measure?
+- How does the brain work?
+
+
+
 # Thank You {data-background="./img/logos.png"}
 renaudgervais.github.io
 
