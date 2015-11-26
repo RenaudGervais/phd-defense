@@ -17,17 +17,6 @@
 </div>
 
 
-<!-- Attention -->
-## {data-background="./img/sur-fake-5-crop.jpg"}
-<div class="notes">
-- Devices became portable
-- But require our whole attention
-- Either IN the screen our OUT in the world
-</div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<div class="copyright" style="right:0px;color:rgb(255,255,255);">Source: Antoine Geiger's SUR-FAKE</div>
-
-
 ---
 
 ### A **Humane** Representation of Thought
@@ -41,17 +30,21 @@
 </div>
 
 
-## <!-- Back to the Real World --> {data-background="./img/CACM-back-to-the-real-world.png"}
+<!-- Attention -->
+## {data-background="./img/sur-fake-5-crop.jpg"}
 <div class="notes">
-- We have evolved in the real world
-- Anchoring interaction there seems a very humane thing to do
+- Devices became portable
+- But require our whole attention
+- Either IN the screen our OUT in the world
 </div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div class="copyright" style="right:0px;color:rgb(255,255,255);">Source: Antoine Geiger's SUR-FAKE</div>
+
 
 ---
 
-### We **know** how the real world works 
-
-<!-- <div class="footnote">@Weiser1991</div> -->
+### Real World
+We **know** how it works 
 
 
 ## {data-transition="fade"}
