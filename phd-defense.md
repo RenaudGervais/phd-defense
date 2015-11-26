@@ -134,12 +134,7 @@ How can we use augmented objects to reveal hidden information about *our own sel
 
 ---
 
-
 ### Augmented Reality
-
----
-
-### Video see-through
 <img src="./img/intro-ar-video-see-through.png">
 <div class="notes">
 - Traditional way is to use video see-through
