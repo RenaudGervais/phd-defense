@@ -10,7 +10,6 @@ all:
 	--slide-level 2 \
 	-i --bibliography="PhD.bib" \
 	--csl="elsevier-harvard.csl" \
-	--mathjax \
 	-V theme:"$(THEME)" \
 	-V revealjs-url:"$(REVEAL_LOCATION)" \
 	-V width:"1280" \
