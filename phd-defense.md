@@ -546,8 +546,33 @@ How to use these augmented objects to better know ourselves and others better?
 </div>
 
 
-## {data-background-video="./img/teegi.mp4"}
+## <!-- Video teaser --> {data-background-video="./img/teegi.mp4"}
 
+
+## <!-- Tangible filter control --> {data-background="./img/teegi-mini-teegis-photo.jpg"}
+<div class="notes">
+- Users were able to see different brain activity
+- Filters were controlled using mini-teegis
+</div>
+
+---
+
+### Features
+
+---
+
+### Synchronized Blinks
+<video controls data-autoplay loop src="./img/teegi_blinks.mp4" height=500px></video>
+
+---
+
+### Inverse Model
+<img src="./img/teegi-inverse-model.jpg" height="500px">
+
+---
+
+### Exposing the Signal Processing Process
+<img src="./img/teegi-signal-table.jpg" height="500px">
 
 
 
