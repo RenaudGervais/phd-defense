@@ -639,6 +639,44 @@ How to use these augmented objects to better know ourselves and others better?
 <img src="./img/tobe-sensor-eda.jpg" width="30%">
 <img src="./img/tobe-sensor-openbci.jpg" width="30%">
 
+<div class="notes">
+- ECG
+- Breathing
+- EDA
+- EEG
+- EOG
+</div>
+
+---
+
+### Feedback: Support
+<img src="./img/tobe-potato.jpg" height="500px">
+
+
+
+## {data-background="./img/tobe-tablet-window.jpg"}
+### Feedback: Shape {style="color: #eee;"}
+
+---
+
+### Setup
+<img src="./img/tobe-capscience-setup.png" height="600px">
+
+
+## {data-background="./img/tobe-animator.jpg"}
+### Customization {style="color: #eee;"}
+
+
+
+## {data-background="./img/tobe-tablet-window.jpg"}
+### Customization {style="color: #eee;"}
+
+
+## {data-background="./img/tobe-coherence.jpg"}
+### Use Case {style="color: #eee;"}
+
+
+
 
 
 # <!-- What's next? --> {data-background="./img/scanning-the-horizon.jpg"}
