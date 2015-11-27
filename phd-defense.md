@@ -508,7 +508,9 @@ How to use these augmented objects to better know ourselves and others better?
 <img src="./img/teegi-jeremy.jpg" height="500px">
 
 
-## {data-background="./img/teegi-big-head-whats-inside.png"}
+
+
+# {data-background="./img/teegi-big-head-whats-inside.png"}
 <div class="notes">
 - Do you know what is happening in your brain right now?
 - Brain is interesting because except for the nagging little voice that is always there, we have no idea of what is currently going on in there
@@ -594,6 +596,42 @@ How to use these augmented objects to better know ourselves and others better?
 ### Teegi Disco
 
 
+
+
+
+
+
+# Going Further
+
+
+---
+
+### Inner Mirror
+<img src="./img/inner-beauty.png" height="500px">
+
+---
+
+### Representations
+
+---
+
+### Building your own mirror
+
+
+## <!-- Tobe --> {data-background-video="./img/tobe.mp4"}
+<!-- <video controls class="stretch" src="./img/tobe.mp4"></video> -->
+
+---
+
+### 
+<img src="./img/tobe-pipeline.png" height="600px">
+
+
+
+
+
+
+# <!-- What's next? --> {data-background="./img/scanning-the-horizon.jpg"}
 
 
 
