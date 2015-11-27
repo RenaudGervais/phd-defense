@@ -557,6 +557,11 @@ How to use these augmented objects to better know ourselves and others better?
 
 ---
 
+### Filters
+<img src="./img/teegi-filters.png" height="500px">
+
+---
+
 ### Features
 
 ---
