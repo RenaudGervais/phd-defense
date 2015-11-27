@@ -626,8 +626,18 @@ How to use these augmented objects to better know ourselves and others better?
 ### 
 <img src="./img/tobe-pipeline.png" height="600px">
 
+---
 
+### Metrics
 
+---
+
+### Sensors & Signal Processing
+<img src="./img/tobe-sensor-ecg.jpg" width="30%">
+<img src="./img/tobe-sensor-breathing.jpg" width="30%">
+
+<img src="./img/tobe-sensor-eda.jpg" width="30%">
+<img src="./img/tobe-sensor-openbci.jpg" width="30%">
 
 
 
