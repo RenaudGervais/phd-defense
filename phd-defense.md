@@ -678,6 +678,29 @@ How to use these augmented objects to better know ourselves and others better?
 
 
 
+# In Summary
+
+---
+
+### Contributions
+- Interaction
+- Introspection
+
+
+## Interaction
+<img src="./img/conclusion-cursar.jpg" height="400px">
+<span style="display:inline-block; width: 100px;"></span>
+<img src="./img/conclusion-tports.jpg" height="400px">
+
+
+## Introspection
+<img src="./img/teegi-inverse-model.jpg" height="400px">
+<span style="display:inline-block; width: 100px;"></span>
+<img src="./img/conclusion-tobe.jpg" height="400px">
+
+
+
+
 
 # <!-- What's next? --> {data-background="./img/scanning-the-horizon.jpg"}
 
