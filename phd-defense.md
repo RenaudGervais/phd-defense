@@ -706,7 +706,7 @@ How to use these augmented objects to better know ourselves and others better?
 
 ---
 
-Towards --strike--
+### Towards the Desk as a Working Space
 
 ---
 
@@ -724,6 +724,26 @@ Towards --strike--
 <img src="./img/conclusion-improvised-working-surfaces-3.png" height="250px">
 <img src="./img/conclusion-improvised-working-surfaces-4.png" height="250px">
 
+
+---
+
+### Designing for Calm and Wellbeing
+<div class="notes">
+- How can we use technology to create calm experiences?
+</div>
+
+---
+
+### Undivided Attention
+<div class="notes">
+- Trying to go towards technology that does not *require* our undivided attention
+</div>
+
+
+## <!-- The Real World --> {data-background="./img/conclusion-real-world.jpg"}
+<div class="notes">
+I think that we should not have to choose between being *here* and going to wonderland.
+</div>
 
 
 # Thank You {data-background="./img/logos.png"}
