@@ -680,11 +680,11 @@ How to use these augmented objects to better know ourselves and others better?
 
 # In Summary
 
----
 
-### Contributions
-- Interaction
-- Introspection
+## Contributions
+### Augmented Objects
+>- Interaction
+>- Introspection
 
 
 ## Interaction
