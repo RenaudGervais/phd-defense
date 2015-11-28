@@ -704,6 +704,26 @@ How to use these augmented objects to better know ourselves and others better?
 
 # <!-- What's next? --> {data-background="./img/scanning-the-horizon.jpg"}
 
+---
+
+Towards --strike--
+
+---
+
+### Direct-Indirect Combination
+<img src="./img/conclusion-direct-indirect-combination-direct.png" height="400px">
+<img src="./img/conclusion-direct-indirect-combination-indirect.png" height="400px">
+
+---
+
+### Improvised Working Surfaces
+<img src="./img/conclusion-improvised-working-surfaces-1.png" height="250px">
+<img src="./img/conclusion-improvised-working-surfaces-2.png" height="250px">
+
+
+<img src="./img/conclusion-improvised-working-surfaces-3.png" height="250px">
+<img src="./img/conclusion-improvised-working-surfaces-4.png" height="250px">
+
 
 
 # Thank You {data-background="./img/logos.png"}
@@ -716,4 +736,4 @@ renaudgervais.github.io
 ---
 
 ### Results
-<img src="./img/table.png" width="950px" style="background:none; border:none; box-shadow:none;">
+<img src="./img/table.png" width="950px" style="-webkit-filter: none; filter: none;">
