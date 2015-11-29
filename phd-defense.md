@@ -17,19 +17,6 @@
 </div>
 
 
----
-
-### A **Humane** Representation of Thought
-<img src="./img/ascent-of-man.jpg" height="300px">
-<div class="notes">
-- Technology constrain our bodies
-- Only eye and fingers working
-- Bodies have been neglected
-- Tip of finger interaction is limiting. Not humane.
-- Evolution made it so that we think *with all our senses*
-</div>
-
-
 <!-- Attention -->
 ## {data-background="./img/sur-fake-5-crop.jpg"}
 <div class="notes">
@@ -43,8 +30,21 @@
 
 ---
 
-### Real World
+### A **Humane** Representation of Thought
+<img src="./img/ascent-of-man.jpg" height="300px">
+<div class="notes">
+- Technology constrain our bodies
+- Only eye and fingers working
+- Bodies have been neglected
+- Tip of finger interaction is limiting. Not humane.
+- Evolution made it so that we think *with all our senses*
+</div>
+
+
+## Real World {data-background="./img/conclusion-real-world.jpg" style="color: #eee;"}
+<div class="notes">
 We **know** how it works 
+</div>
 
 
 ## {data-transition="fade"}
@@ -190,11 +190,9 @@ Uses projectors or screens *in the environments* to display information spatiall
 ## {data-background="./img/sar-pipeline.png"}
 
 
-<!-- TODO: Declutter images -->
-## {data-background="./img/sar-pipeline-virtual.png"}
-
 ---
 
+<!-- 
 ### What is it good for?
 
 ---
@@ -215,7 +213,7 @@ Uses projectors or screens *in the environments* to display information spatiall
 <div class="notes">
 Complexity: Calibration with multiple devices (esp. /w multi-proj setup)
 </div>
-
+ -->
 
 
 # Interaction
@@ -529,16 +527,20 @@ How to use these augmented objects to better know ourselves and others better?
 </div>
 
 
+
+## {data-background="./img/teegi-eeg-tools.png"}
+<div class="notes">
+- Current tools are complex and difficult to approach
+</div>
+
+
+
 ## {data-background="./img/teegi-big-head-whats-inside-no-question.png"}
 ### Objectives
 - What can EEG measure?
 - How does the brain work?
 
 
-## {data-background="./img/teegi-eeg-tools.png"}
-<div class="notes">
-- Current tools are complex and difficult to approach
-</div>
 
 
 ## {data-background="./img/teegi-alison.jpg"}
