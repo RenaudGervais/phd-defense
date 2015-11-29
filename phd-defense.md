@@ -58,8 +58,9 @@ We **know** how it works
 ---
 
 ## Augmented Objects
-<img src="./img/intro-mug.jpg" height="400px">
-<img src="./img/intro-mug-augmented.jpg" height="400px">
+<img src="./img/intro-mug.png" height="500px">
+<span style="display:inline-block; width: 50px;"></span>
+<img src="./img/intro-mug-augmented.png" height="500px">
 <div class="notes">
 - For example, we can augment a normal mug with different functions:
     + Displaying remaining steeping time
