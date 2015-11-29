@@ -41,7 +41,8 @@
 </div>
 
 
-## Real World {data-background="./img/conclusion-real-world.jpg" style="color: #eee;"}
+## {data-background="./img/conclusion-real-world.jpg"}
+### Real World
 <div class="notes">
 We **know** how it works 
 </div>
@@ -71,18 +72,15 @@ We **know** how it works
 ### Interaction
 How can we *interact* with digital content hosted on physical objects?
 
+<img src="./img/cursar-teaser.png" width="600px">
+<span style="display:inline-block; width: 50px;"></span>
+<img src="./img/tports-video-teaser.png" width="600px">
 
-<!-- Contribution on interaction -->
-## {data-background="./img/cursar-teaser.png"}
 <div class="notes">
 The evaluation of the use of 2D pointing devices – mouse and
 graphics tablet – in a pointing task in a SAR context compared
 to a screen condition.
-</div>
 
-
-## {data-background="./img/tports-video-teaser.png"}
-<div class="notes">
 The design, implementation and evaluation of a system enabling
 the interaction between a typical desktop computer environ-
 ment – traditional screens, mouse and keyboard – with tangible
@@ -95,11 +93,9 @@ main thread.
 ### Introspection
 How can we use augmented objects to reveal hidden information about *our own selves*?
 
-
-## {data-background="./img/teegi-teaser.jpg"}
-
-
-## {data-background="./img/tobe-coherence.jpg"}
+<img src="./img/teegi-teaser.jpg" width="600px">
+<span style="display:inline-block; width: 50px;"></span>
+<img src="./img/tobe-coherence.jpg" width="600px">
 
 
 
