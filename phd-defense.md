@@ -389,14 +389,15 @@ Users were *11% faster* using a screen vs SAR
 
 ---
 
-### Fitts law
-<img src="./img/cursar-fitts-crop.png" height="500px" style="background:none; border:none; box-shadow:none;">
+### Fitts' law
+<img src="./img/cursar-fitts-eq.png" height="500px" style="-webkit-filter: none; filter: none;">
 
 <div class="notes">
+- MT: Movement Time
+- ID: Index of Difficulty
+- D: Projected target distance in virtual screen
+- W: Perceived target size
 - We modeled the movement time with a linear regression.
-- Pointing task in SAR for both mice and tablets still follows Fitts' law and remain predictable
-- Slower in SAR than SCREEN
-- More XP to evaluate learning effect
 
 Note: $R^2=0.8479$
 </div>
@@ -411,7 +412,6 @@ Note: $R^2=0.8479$
 - Mixes desktop + reality around workspace
 </div>
 
----
 
 
 # Tangible Viewports
