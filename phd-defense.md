@@ -215,6 +215,17 @@ Complexity: Calibration with multiple devices (esp. /w multi-proj setup)
 
 # Interaction
 
+---
+
+### Direct Vs. Indirect
+<div class="notes">
+- Show pointing on real object using direct touch
+- Tangible interaction is sometimes not enough
+- So we want to use digital tools
+- Such tools are often operated on screen
+- What works great on screen is indirect interaction such as the mouse
+</div>
+
 
 ## {data-background="./img/cursar-teaser.png"}
 
@@ -223,6 +234,8 @@ Complexity: Calibration with multiple devices (esp. /w multi-proj setup)
 - Desktop computers are still good platforms for content creation
 </div>
 
+
+<!--
 ---
 
 ### Indirect pointing methods
@@ -238,29 +251,6 @@ Using standard 2D pointing devices such as a *mouse* or a *graphics tablet*
     + Complex
     + Fragile
     + Distant
-
-
-<!--
----
-
-### Direct Touch
-- "Natural"
-- Anchored in reality
-
----
-
-### But...
-- What if object is...
-    + Complex
-    + Fragile
-    + Distant
-- Fat finger problem
-- Tiring for long stretches of time
-
-<div class="notes">
-- Complex: with complex topology where you cannot touch everywhere (e.g. concave)
-- Fragile: e.g. museum
-</div>
 -->
 
 
@@ -322,6 +312,7 @@ Does pointing in SAR follows Fitts' law?
 <img src="./img/cursar-sar.jpg" width="450px">
 
 <div class="notes">
+- On the left it is a simulated version of what is seen on the right
 - Comparison of the view in both conditions
 - The view of the cube is the same
     + In SCREEN condition, note the virtual table is aligned with real table
@@ -353,20 +344,21 @@ Does pointing in SAR follows Fitts' law?
 
 ---
 
-### Participants
->- 16 participants
->- Familiar with mice
->- Little experience with graphics tablets
->- No experience with SAR systems
-
----
-
 ### Design
 <img src="./img/cursar-study-design.png" height="650px" style="-webkit-filter: none; filter: none;">
 
 <div class="notes">
 - Inefficiency: deviation from the most optimal path
 </div>
+
+---
+
+### Participants
+>- 16 participants
+>- Familiar with mice
+>- Little experience with graphics tablets
+>- No experience with SAR systems
+
 
 
 
@@ -386,7 +378,7 @@ Users were *11% faster* using a screen vs SAR
 ---
 
 ### Inefficiency
-<img class="fragment" src="./img/cursar-heatmap.png" width="950px" style="background:none; border:none; box-shadow:none;">
+<img class="fragment" src="./img/cursar-heatmap.png" height="500px" style="background:none; border:none; box-shadow:none;">
 
 <div class="notes">
 - Input modality significant effect.
