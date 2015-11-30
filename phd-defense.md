@@ -60,6 +60,8 @@ We **know** how it works
 ### Tangible User Interfaces
 <img src="./img/radical-atoms.png" height="500px">
 
+<div class="footnote">[@Ishii1997]<br>[@Ishii2012]</div>
+
 
 ## Augmented Objects
 <img src="./img/intro-mug.png" height="500px">
@@ -130,6 +132,7 @@ Uses projectors or screens *in the environments* to display information spatiall
 <!-- TODO: Declutter images -->
 ## {data-background="./img/sar-pipeline.png"}
 
+---
 
 ### Interaction
 How can we *interact* with digital content hosted on physical objects?
@@ -159,9 +162,6 @@ How can we use augmented objects to reveal hidden information about *our own sel
 <span style="display:inline-block; width: 50px;"></span>
 <img src="./img/tobe-coherence.jpg" width="600px">
 
-
-
----
 
 <!-- 
 ### What is it good for?

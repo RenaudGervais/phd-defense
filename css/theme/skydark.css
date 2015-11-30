@@ -280,10 +280,11 @@ body {
  * CUSTOMS
  *********************************************/
 div.footnote {
-    position: fixed;
+    /*position: fixed;*/
     bottom: 0px;
     font-size: 0.6em;
     font-family: 'museo300';
+    text-align: center;
 }
 
 div.copyright {
