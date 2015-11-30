@@ -80,6 +80,10 @@ Source: Antoine Geiger's SUR-FAKE
 </section><section id="section-6" class="slide level2" data-transition="fade">
 <h1></h1>
 <p><img src="./img/intro-mug-affordance.png" height="600px" style="box-shadow: none; background: none;"></p>
+</section><section class="slide level2">
+
+<h3 id="tangible-user-interfaces">Tangible User Interfaces</h3>
+<p><img src="./img/radical-atoms.png" height="500px"></p>
 </section><section id="augmented-objects" class="slide level2">
 <h1>Augmented Objects</h1>
 <img src="./img/intro-mug.png" height="500px"> <span style="display:inline-block; width: 50px;"></span> <img src="./img/intro-mug-augmented.png" height="500px">
@@ -93,45 +97,6 @@ Source: Antoine Geiger's SUR-FAKE
 </ul></li>
 </ul>
 </aside>
-</section><section class="slide level2">
-
-<h3 id="interaction">Interaction</h3>
-<p>How can we <em>interact</em> with digital content hosted on physical objects?</p>
-<p><img src="./img/cursar-teaser.png" width="600px"> <span style="display:inline-block; width: 50px;"></span> <img src="./img/tports-video-teaser.png" width="600px"></p>
-<aside class="notes">
-<p>The evaluation of the use of 2D pointing devices – mouse and graphics tablet – in a pointing task in a SAR context compared to a screen condition.</p>
-<p>The design, implementation and evaluation of a system enabling the interaction between a typical desktop computer environ- ment – traditional screens, mouse and keyboard – with tangible augmented objects, considering an object design scenario as a main thread.</p>
-</aside>
-</section><section class="slide level2">
-
-<h3 id="introspection">Introspection</h3>
-<p>How can we use augmented objects to reveal hidden information about <em>our own selves</em>?</p>
-<p><img src="./img/teegi-teaser.jpg" width="600px"> <span style="display:inline-block; width: 50px;"></span> <img src="./img/tobe-coherence.jpg" width="600px"></p>
-<!-- Related work -->
-</section></section>
-<section><section id="context" class="titleslide slide level1"><h1>Context</h1></section><section class="slide level2">
-
-<h3 id="related-areas">Related Areas</h3>
-<ul>
-<li class="fragment">Ubiquitous Computing &amp; Calm Technologies</li>
-<li class="fragment">Physiological &amp; Affective Computing</li>
-<li class="fragment">Tangible User Interfaces</li>
-<li class="fragment">Augmented Reality</li>
-</ul>
-</section><section class="slide level2">
-
-<h3 id="ubicomp-calm-technologies">Ubicomp &amp; Calm Technologies</h3>
-</section><section class="slide level2">
-
-<h3 id="physiological-affective-computing">Physiological &amp; Affective Computing</h3>
-</section><section class="slide level2">
-
-<h3 id="tangible-user-interfaces">Tangible User Interfaces</h3>
-<p><img src="./img/radical-atoms.png" height="500px"></p>
-</section><section class="slide level2">
-
-<h3 id="organic-user-interfaces">Organic User Interfaces</h3>
-<p><img src="./img/dynacan-oui.jpg" height="500px"></p>
 </section><section class="slide level2">
 
 <h3 id="augmented-reality">Augmented Reality</h3>
@@ -187,6 +152,18 @@ Source: Antoine Geiger's SUR-FAKE
 <!-- TODO: Declutter images -->
 </section><section id="section-9" class="slide level2" data-background="./img/sar-pipeline.png">
 <h1></h1>
+<h3 id="interaction">Interaction</h3>
+<p>How can we <em>interact</em> with digital content hosted on physical objects?</p>
+<p><img src="./img/cursar-teaser.png" width="600px"> <span style="display:inline-block; width: 50px;"></span> <img src="./img/tports-video-teaser.png" width="600px"></p>
+<aside class="notes">
+<p>The evaluation of the use of 2D pointing devices – mouse and graphics tablet – in a pointing task in a SAR context compared to a screen condition.</p>
+<p>The design, implementation and evaluation of a system enabling the interaction between a typical desktop computer environ- ment – traditional screens, mouse and keyboard – with tangible augmented objects, considering an object design scenario as a main thread.</p>
+</aside>
+</section><section class="slide level2">
+
+<h3 id="introspection">Introspection</h3>
+<p>How can we use augmented objects to reveal hidden information about <em>our own selves</em>?</p>
+<p><img src="./img/teegi-teaser.jpg" width="600px"> <span style="display:inline-block; width: 50px;"></span> <img src="./img/tobe-coherence.jpg" width="600px"></p>
 </section><section class="slide level2">
 
 <!-- 
@@ -374,7 +351,7 @@ Does pointing still works without a screen?
 </section><section class="slide level2">
 
 <h3 id="inefficiency">Inefficiency</h3>
-<p><img class="fragment" src="./img/cursar-heatmap.png" height="500px" style="background:none; border:none; box-shadow:none;"></p>
+<p><img class="fragment" src="./img/cursar-heatmap.png" height="500px" style="-webkit-filter: none; filter: none;"></p>
 <aside class="notes">
 <ul>
 <li>Input modality significant effect.</li>
@@ -389,10 +366,11 @@ Does pointing still works without a screen?
 <p><img src="./img/cursar-fitts-eq.png" height="500px" style="-webkit-filter: none; filter: none;"></p>
 <aside class="notes">
 <ul>
+<li>MT: Movement Time</li>
+<li>ID: Index of Difficulty</li>
+<li>D: Projected target distance in virtual screen</li>
+<li>W: Perceived target size</li>
 <li>We modeled the movement time with a linear regression.</li>
-<li>Pointing task in SAR for both mice and tablets still follows Fitts' law and remain predictable</li>
-<li>Slower in SAR than SCREEN</li>
-<li>More XP to evaluate learning effect</li>
 </ul>
 <p>Note: <span class="math inline"><em>R</em><sup>2</sup> = 0.8479</span></p>
 </aside>
@@ -405,8 +383,6 @@ Does pointing still works without a screen?
 <li>Mixes desktop + reality around workspace</li>
 </ul>
 </aside>
-</section><section class="slide level2">
-
 </section></section>
 <section><section id="tangible-viewports" class="titleslide slide level1"><h1>Tangible Viewports</h1></section><section id="section-16" class="slide level2" data-background="./img/tports-video-teaser.png" data-transition="fade">
 <h1></h1>

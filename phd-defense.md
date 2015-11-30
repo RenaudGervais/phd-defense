@@ -57,6 +57,10 @@ We **know** how it works
 
 ---
 
+### Tangible User Interfaces
+<img src="./img/radical-atoms.png" height="500px">
+
+
 ## Augmented Objects
 <img src="./img/intro-mug.png" height="500px">
 <span style="display:inline-block; width: 50px;"></span>
@@ -67,67 +71,6 @@ We **know** how it works
     + Displaying temperature of liquid inside
     + Handle turns green when everything is OK
 </div>
-
----
-
-### Interaction
-How can we *interact* with digital content hosted on physical objects?
-
-<img src="./img/cursar-teaser.png" width="600px">
-<span style="display:inline-block; width: 50px;"></span>
-<img src="./img/tports-video-teaser.png" width="600px">
-
-<div class="notes">
-The evaluation of the use of 2D pointing devices – mouse and
-graphics tablet – in a pointing task in a SAR context compared
-to a screen condition.
-
-The design, implementation and evaluation of a system enabling
-the interaction between a typical desktop computer environ-
-ment – traditional screens, mouse and keyboard – with tangible
-augmented objects, considering an object design scenario as a
-main thread.
-</div>
-
----
-
-### Introspection
-How can we use augmented objects to reveal hidden information about *our own selves*?
-
-<img src="./img/teegi-teaser.jpg" width="600px">
-<span style="display:inline-block; width: 50px;"></span>
-<img src="./img/tobe-coherence.jpg" width="600px">
-
-
-
-<!-- Related work -->
-# Context
-
----
-
-### Related Areas
-- Ubiquitous Computing & Calm Technologies
-- Physiological & Affective Computing
-- Tangible User Interfaces
-- Augmented Reality
-
----
-
-### Ubicomp & Calm Technologies
-
----
-
-### Physiological & Affective Computing
-
----
-
-### Tangible User Interfaces
-<img src="./img/radical-atoms.png" height="500px">
-
----
-
-### Organic User Interfaces
-<img src="./img/dynacan-oui.jpg" height="500px">
 
 ---
 
@@ -180,11 +123,42 @@ Uses projectors or screens *in the environments* to display information spatiall
 
 ---
 
+
 ### How does it work?
 
 
 <!-- TODO: Declutter images -->
 ## {data-background="./img/sar-pipeline.png"}
+
+
+### Interaction
+How can we *interact* with digital content hosted on physical objects?
+
+<img src="./img/cursar-teaser.png" width="600px">
+<span style="display:inline-block; width: 50px;"></span>
+<img src="./img/tports-video-teaser.png" width="600px">
+
+<div class="notes">
+The evaluation of the use of 2D pointing devices – mouse and
+graphics tablet – in a pointing task in a SAR context compared
+to a screen condition.
+
+The design, implementation and evaluation of a system enabling
+the interaction between a typical desktop computer environ-
+ment – traditional screens, mouse and keyboard – with tangible
+augmented objects, considering an object design scenario as a
+main thread.
+</div>
+
+---
+
+### Introspection
+How can we use augmented objects to reveal hidden information about *our own selves*?
+
+<img src="./img/teegi-teaser.jpg" width="600px">
+<span style="display:inline-block; width: 50px;"></span>
+<img src="./img/tobe-coherence.jpg" width="600px">
+
 
 
 ---
@@ -378,7 +352,7 @@ Users were *11% faster* using a screen vs SAR
 ---
 
 ### Inefficiency
-<img class="fragment" src="./img/cursar-heatmap.png" height="500px" style="background:none; border:none; box-shadow:none;">
+<img class="fragment" src="./img/cursar-heatmap.png" height="500px" style="-webkit-filter: none; filter: none;">
 
 <div class="notes">
 - Input modality significant effect.
