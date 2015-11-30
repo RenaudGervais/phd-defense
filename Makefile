@@ -14,4 +14,5 @@ all:
 	-V revealjs-url:"$(REVEAL_LOCATION)" \
 	-V width:"1280" \
 	-V height:"720" \
+	-V pagetitle:"Getting Out of Flatland" \
 	-o $(OUT)
