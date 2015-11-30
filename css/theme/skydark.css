@@ -273,7 +273,8 @@ body {
  * SLIDE NUMBER
  *********************************************/
 .reveal .slide-number {
-  color: #3b759e; }
+  color: #3b759e;
+  font-size: 24px; }
 
 /*********************************************
  * CUSTOMS
