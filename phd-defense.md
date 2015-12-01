@@ -32,7 +32,7 @@
 
 ### A **Humane** Representation of Thought
 <img src="./img/ascent-of-man.jpg" height="300px">
-<div class="footnote">[@Victor2014]</div>
+<div class="footnote" style="position: fixed; bottom:-150px; left: 250px;">[@Victor2014]</div>
 <div class="notes">
 - Technology constrain our bodies
 - Only eye and fingers working
@@ -87,9 +87,9 @@ We **know** how it works
 
 ---
 
-### *Spatial* Augmented Reality
+### *Spatial* Augmented Reality {style="vertical-align: center;"}
 Uses projectors or screens *in the environments* to display information spatially related to this environment
-<div class="footnote">[@Raskar1998a]<br>[@Raskar2001a]</div>
+<div class="footnote" style="position: fixed; bottom:-300px; left: 175px;">[@Raskar1998a]<br>[@Raskar2001a]</div>
 
 <div class="notes">
 - SAR instead uses projector or screens *in the environment*
