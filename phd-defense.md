@@ -136,6 +136,16 @@ Uses projectors or screens *in the environments* to display information spatiall
 
 ---
 
+### Back to the Real World
+- By including real world elements with our use of technology
+- Using technology as a way to reflect on ourselves
+<div class="notes">
+My objective is to move towards a real-world experience without having to remove technology.
+Twofold: 
+</div>
+
+---
+
 ### Interaction
 How can we *interact* with digital content hosted on physical objects?
 
@@ -367,6 +377,7 @@ Users were *11% faster* using a screen vs SAR
 
 ### Fitts' law
 <img src="./img/cursar-fitts-eq.png" height="500px" style="-webkit-filter: none; filter: none;">
+<div class="footnote" style="position: fixed; bottom:-50px; left: 225px;">[@MacKenzie1992]</div>
 
 <div class="notes">
 - MT: Movement Time
