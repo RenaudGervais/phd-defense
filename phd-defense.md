@@ -149,6 +149,23 @@ Twofold:
 ### Interaction
 How can we *interact* with digital content hosted on physical objects?
 
+---
+
+### Direct Interaction
+<img src="./img/dynamic-shader-lamps.jpg" height="400px">
+<div class="footnote" style="position: fixed; bottom:-100px; left: 175px;">[@Bandyopadhyay2001]</div>
+
+---
+
+### Direct Interaction
+<img src="./img/physical-virtual-tools.jpg" height="400px">
+<span style="display:inline-block; width: 50px;"></span>
+<img src="./img/miragetable.jpg" height="400px">
+<div class="footnote" style="position: fixed; bottom:-100px; left: 175px;">[@Marner2009]<br>[@Benko2012]</div>
+
+---
+
+### Interaction
 <img src="./img/cursar-teaser.png" width="600px">
 <span style="display:inline-block; width: 50px;"></span>
 <img src="./img/tports-video-teaser.png" width="600px">
