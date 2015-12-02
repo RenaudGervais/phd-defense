@@ -185,9 +185,9 @@ How can we *interact* with digital content hosted on physical objects?
 ---
 
 ### Interaction
-<img src="./img/cursar-teaser.png" width="600px">
+<img src="./img/cursar-teaser.jpg" height="325px">
 <span style="display:inline-block; width: 50px;"></span>
-<img src="./img/tports-video-teaser.png" width="600px">
+<img src="./img/tports-video-teaser.png" height="325px">
 <div class="footnote" style="position: fixed; bottom:-100px; left: 100px;">[@Gervais2015]<br>Gervais, R., et al., 2016. Tangible Viewports: Getting out of flatland in desktop environments, in: TEI’16.</div>
 
 <div class="notes">
