@@ -578,7 +578,7 @@ How to use these augmented objects to better know ourselves and others better?
 
 
 
-# Going Further
+# Going Further {style="color: #eee;" data-background="./img/tobe-tablet-window.jpg"}
 
 
 ---
@@ -588,20 +588,16 @@ How to use these augmented objects to better know ourselves and others better?
 
 ---
 
-### Representations
-
----
-
 ### Building your own mirror
-
-
-## <!-- Tobe --> {data-background-video="./img/tobe.mp4"}
-<!-- <video controls class="stretch" src="./img/tobe.mp4"></video> -->
 
 ---
 
 ### 
 <img src="./img/tobe-pipeline.png" height="600px">
+
+## <!-- Tobe --> {data-background-video="./img/tobe.mp4"}
+<!-- <video controls class="stretch" src="./img/tobe.mp4"></video> -->
+
 
 ---
 
