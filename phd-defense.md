@@ -165,6 +165,25 @@ How can we *interact* with digital content hosted on physical objects?
 
 ---
 
+### Direct Vs. Indirect
+<div class="notes">
+- Show pointing on real object using direct touch
+- Tangible interaction is sometimes not enough
+- So we want to use digital tools
+- Such tools are often operated on screen
+- What works great on screen is indirect interaction such as the mouse
+</div>
+
+
+## {data-background="./img/cursar-teaser.png"}
+
+<div class="notes">
+- We focus on the creation of *hybrid environments*
+- Desktop computers are still good platforms for content creation
+</div>
+
+---
+
 ### Interaction
 <img src="./img/cursar-teaser.png" width="600px">
 <span style="display:inline-block; width: 50px;"></span>
@@ -220,43 +239,8 @@ Complexity: Calibration with multiple devices (esp. /w multi-proj setup)
 
 # Interaction
 
----
-
-### Direct Vs. Indirect
-<div class="notes">
-- Show pointing on real object using direct touch
-- Tangible interaction is sometimes not enough
-- So we want to use digital tools
-- Such tools are often operated on screen
-- What works great on screen is indirect interaction such as the mouse
-</div>
 
 
-## {data-background="./img/cursar-teaser.png"}
-
-<div class="notes">
-- We focus on the creation of *hybrid environments*
-- Desktop computers are still good platforms for content creation
-</div>
-
-
-<!--
----
-
-### Indirect pointing methods
-Using standard 2D pointing devices such as a *mouse* or a *graphics tablet*
-
----
-
-### Indirect pointing methods
-- Good for prolonged work
-- Precise
-- Allow for *hybrid* applications
-- Works with objects that are:
-    + Complex
-    + Fragile
-    + Distant
--->
 
 
 # Pointing in SAR
