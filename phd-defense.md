@@ -722,6 +722,13 @@ I think that we should not have to choose between being *here* and going to wond
 ## <!-- Being / Doing --> {data-background="./img/being-and-doing.png"}
 
 
+
+## {data-background="./img/tandem.jpg"}
+
+
+## {data-background="./img/camping.jpg"}
+
+
 # Thank You {data-background="./img/logos.png"}
 renaudgervais.github.io
 
