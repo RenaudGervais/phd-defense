@@ -367,7 +367,7 @@ Users were *11% faster* using a screen vs SAR
 ---
 
 ### Inefficiency
-<img class="fragment" src="./img/cursar-heatmap.png" height="500px" style="-webkit-filter: none; filter: none;">
+<img src="./img/cursar-heatmap.png" height="500px" style="-webkit-filter: none; filter: none;">
 
 <div class="notes">
 - Input modality significant effect.
@@ -420,11 +420,6 @@ Note: $R^2=0.8479$
 - Focus on hybrid environment
 </div>
 
-
-## 
-<video controls src="./img/tports.mp4"></video>
-
-
 ---
 
 ### Metaphor
@@ -444,27 +439,36 @@ Working on a physical object becomes the same thing as working on a virtual vers
 - Cursor is visible by *everyone*
 </div>
 
----
+
+## {data-background-video="./img/tports.mp4"}
+<!-- <video controls src="./img/tports.mp4"></video> -->
+
 
 ## Applications
 
 ---
 
-### Painting
+### Painting / Progamming
 <img src="./img/tports-direct-painting.jpg" height="500px">
-
----
-
-### Programming Augmented Objects
+<span style="display:inline-block; width: 50px;"></span>
 <img src="./img/tports-screen-vvvv.jpg" height="500px">
 
 ---
 
 ### Objects in Sync
-<div>
 <img src="./img/tports-synchro-sync.jpg" height="500px">
+<span style="display:inline-block; width: 50px;"></span>
 <img src="./img/tports-synchro-heatmap.jpg" height="500px">
-</div>
+
+---
+
+### Objects in Sync
+<img src="./img/tports-dataviz.jpg" height="500px">
+
+---
+
+### Text Annotations
+<img src="./img/tports-text.jpg" height="500px">
 
 
 ## {data-background="./img/tports-video-teaser-bounded.png"}
