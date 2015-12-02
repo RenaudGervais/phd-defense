@@ -32,7 +32,7 @@
 
 ### A **Humane** Representation of Thought
 <img src="./img/ascent-of-man.jpg" height="300px">
-<div class="footnote" style="position: fixed; bottom:-150px; left: 250px;">[@Victor2014]</div>
+<div class="footnote" style="position: fixed; bottom:-150px; left: 175px;">[@Victor2014]</div>
 <div class="notes">
 - Technology constrain our bodies
 - Only eye and fingers working
@@ -89,7 +89,7 @@ We **know** how it works
 
 ### *Spatial* Augmented Reality {style="vertical-align: center;"}
 Uses projectors or screens *in the environments* to display information spatially related to this environment
-<div class="footnote" style="position: fixed; bottom:-300px; left: 175px;">[@Raskar1998a]<br>[@Raskar2001a]</div>
+<div class="footnote" style="position: fixed; bottom:-300px; left: 100px;">[@Raskar1998a]<br>[@Raskar2001a]</div>
 
 <div class="notes">
 - SAR instead uses projector or screens *in the environment*
@@ -161,7 +161,7 @@ How can we *interact* with digital content hosted on physical objects?
 <img src="./img/physical-virtual-tools.jpg" height="400px">
 <span style="display:inline-block; width: 50px;"></span>
 <img src="./img/miragetable.jpg" height="400px">
-<div class="footnote" style="position: fixed; bottom:-100px; left: 175px;">[@Marner2009]<br>[@Benko2012]</div>
+<div class="footnote" style="position: fixed; bottom:-100px; left: 100px;">[@Marner2009]<br>[@Benko2012]</div>
 
 ---
 
@@ -169,7 +169,7 @@ How can we *interact* with digital content hosted on physical objects?
 <img src="./img/cursar-teaser.png" width="600px">
 <span style="display:inline-block; width: 50px;"></span>
 <img src="./img/tports-video-teaser.png" width="600px">
-<div class="footnote" style="position: fixed; bottom:-100px; left: 175px;">[@Gervais2015]<br>[@Gervais2016]</div>
+<div class="footnote" style="position: fixed; bottom:-100px; left: 100px;">[@Gervais2015]<br>Gervais, R., et al., 2016. Tangible Viewports: Getting out of flatland in desktop environments, in: TEI’16.</div>
 
 <div class="notes">
 The evaluation of the use of 2D pointing devices – mouse and
@@ -191,7 +191,8 @@ How can we use augmented objects to reveal hidden information about *our own sel
 <img src="./img/teegi-teaser.jpg" width="600px">
 <span style="display:inline-block; width: 50px;"></span>
 <img src="./img/tobe-coherence.jpg" width="600px">
-<div class="footnote" style="position: fixed; bottom:-100px; left: 175px;">[@Gervais2014]<br>[@Gervais2016a]</div>
+<div class="footnote" style="position: fixed; bottom:-100px; left: 200px;">Frey, J., Gervais, R., et al., 2014. Teegi: Tangible EEG interface, in: UIST’14.<br>Gervais, R., Frey, J., et al., 2016. TOBE: Tangible Out-of-Body Experience, in: TEI’16.
+</div>
 
 <!-- 
 ### What is it good for?

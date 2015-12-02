@@ -213,7 +213,7 @@
         <text macro="issued" prefix=" "/>
         <group prefix=". ">
           <text macro="title"/>
-          <!-- <text macro="container"/> -->
+          <text macro="container"/>
           <!-- <text macro="locators"/> -->
         </group>
       </group>
