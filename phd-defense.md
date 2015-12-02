@@ -719,6 +719,9 @@ I think that we should not have to choose between being *here* and going to wond
 </div>
 
 
+## <!-- Being / Doing --> {data-background="./img/being-and-doing.png"}
+
+
 # Thank You {data-background="./img/logos.png"}
 renaudgervais.github.io
 
