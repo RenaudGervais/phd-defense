@@ -243,7 +243,7 @@ Complexity: Calibration with multiple devices (esp. /w multi-proj setup)
 
 
 
-# Pointing in SAR
+# Pointing in SAR {data-background="./img/cursar-cube-pointer-drawing.png"}
 
 
 ## {data-transition="fade"}
@@ -394,17 +394,9 @@ Note: $R^2=0.8479$
 
 
 
-## {data-background="./img/cursar-teaser.png"}
-### Hybrid workspaces
-
-<div class="notes">
-- Opens up possibility for truly hybrid applications
-- Mixes desktop + reality around workspace
-</div>
 
 
-
-# Tangible Viewports
+# <!-- Hybrid Workspaces --> {data-background="./img/tports-hybrid-workspaces.png"}
 
 
 ## {data-background="./img/tports-video-teaser.png" data-transition="fade"}
