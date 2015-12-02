@@ -169,6 +169,7 @@ How can we *interact* with digital content hosted on physical objects?
 <img src="./img/cursar-teaser.png" width="600px">
 <span style="display:inline-block; width: 50px;"></span>
 <img src="./img/tports-video-teaser.png" width="600px">
+<div class="footnote" style="position: fixed; bottom:-100px; left: 175px;">[@Gervais2015]<br>[@Gervais2016]</div>
 
 <div class="notes">
 The evaluation of the use of 2D pointing devices – mouse and
@@ -190,7 +191,7 @@ How can we use augmented objects to reveal hidden information about *our own sel
 <img src="./img/teegi-teaser.jpg" width="600px">
 <span style="display:inline-block; width: 50px;"></span>
 <img src="./img/tobe-coherence.jpg" width="600px">
-
+<div class="footnote" style="position: fixed; bottom:-100px; left: 175px;">[@Gervais2014]<br>[@Gervais2016a]</div>
 
 <!-- 
 ### What is it good for?
