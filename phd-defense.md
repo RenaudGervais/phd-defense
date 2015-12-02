@@ -265,7 +265,7 @@ Complexity: Calibration with multiple devices (esp. /w multi-proj setup)
 ### Questions
 Differences between *SCREEN* and *SAR* conditions for pointing?
 
-Does pointing in SAR follows Fitts' law?
+Does pointing in SAR follow Fitts' law?
 
 
 ## {data-transition="fade"}
