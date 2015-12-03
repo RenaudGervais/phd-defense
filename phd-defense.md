@@ -671,9 +671,7 @@ How to use these augmented objects to better know ourselves and others better?
 
 
 ## Contributions
-### Augmented Objects
->- Interaction
->- Introspection
+<img src="./img/augmented-object-input-output.png" height="400px">
 
 
 ## Interaction
