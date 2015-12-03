@@ -207,6 +207,21 @@ main thread.
 ### Introspection
 How can we use augmented objects to reveal hidden information about *our own selves*?
 
+---
+
+### Introspection
+<img src="./img/mind-mirror.gif" height="400px">
+<div class="footnote" style="position: fixed; bottom:-100px; left: 0px;">[@Mercier-Ganady2014]</div>
+
+---
+
+### Introspection
+<img src="./img/bodyviz.jpg" height="400px">
+<div class="footnote" style="position: fixed; bottom:-100px; left: 50px;">[@Norooz2015]</div>
+
+---
+
+### Introspection
 <img src="./img/teegi-teaser.jpg" width="600px">
 <span style="display:inline-block; width: 50px;"></span>
 <img src="./img/tobe-coherence.jpg" width="600px">
