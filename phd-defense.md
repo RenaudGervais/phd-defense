@@ -137,11 +137,12 @@ Uses projectors or screens *in the environments* to display information spatiall
 ---
 
 ### Back to the Real World
-- By including real world elements with our use of technology
-- Using technology as a way to reflect on ourselves
+<img src="./img/augmented-object-input-output.png" height="400px">
 <div class="notes">
 My objective is to move towards a real-world experience without having to remove technology.
-Twofold: 
+Twofold:
+- By including real world elements with our use of technology
+- Using technology as a way to reflect on ourselves
 </div>
 
 ---
