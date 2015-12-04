@@ -8,7 +8,8 @@ all:
 	-t revealjs \
 	-s $(IN) \
 	--slide-level 2 \
-	-i --bibliography="PhD.bib" \
+	-i \
+	--bibliography="PhD.bib" \
 	--csl="elsevier-harvard.csl" \
 	-V theme:"$(THEME)" \
 	-V revealjs-url:"$(REVEAL_LOCATION)" \
