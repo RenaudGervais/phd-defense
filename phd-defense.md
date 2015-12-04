@@ -610,10 +610,6 @@ How to use these augmented objects to better know ourselves and others better?
 ### Exposing the Signal Processing
 <img src="./img/teegi-signal-table.jpg" height="500px">
 
----
-
-### Installation
-<img src="./img/teegi-setup-drawing.png" height="600px">
 
 ---
 
@@ -680,11 +676,6 @@ How to use these augmented objects to better know ourselves and others better?
 
 ## {data-background="./img/tobe-tablet-window.jpg"}
 ### Feedback {style="color: #eee;"}
-
----
-
-### Setup
-<img src="./img/tobe-capscience-setup.png" height="600px">
 
 
 ## {data-background="./img/tobe-animator.jpg"}
@@ -764,3 +755,13 @@ renaudgervais.github.io
 
 ### Results
 <img src="./img/table.png" width="950px" style="-webkit-filter: none; filter: none;">
+
+---
+
+### Teegi Installation
+<img src="./img/teegi-setup-drawing.png" height="600px">
+
+---
+
+### Tobe Installation
+<img src="./img/tobe-capscience-setup.png" height="600px">
