@@ -686,17 +686,13 @@ How to use these augmented objects to better know ourselves and others better?
 ## Contributions
 <img src="./img/augmented-object-input-output.png" height="500px">
 
+---
 
-## Interaction
-<img src="./img/conclusion-cursar.jpg" height="400px">
-<span style="display:inline-block; width: 100px;"></span>
-<img src="./img/conclusion-tports.jpg" height="400px">
+<img src="./img/summary-interaction.png" height="600px">
 
+---
 
-## Introspection
-<img src="./img/teegi-inverse-model.jpg" height="400px">
-<span style="display:inline-block; width: 100px;"></span>
-<img src="./img/conclusion-tobe.jpg" height="400px">
+<img src="./img/summary-introspection.png" height="700px">
 
 
 
@@ -711,20 +707,14 @@ I think that we should not have to choose between being *here* and going to wond
 </div>
 
 
-## <!-- Being / Doing --> {data-background="./img/being-and-doing.png"}
+## <!-- Being / Doing -->
+<img src="./img/being-and-doing.png">
 
 ---
 
 ### Designing for Calmness and Wellbeing
 <div class="notes">
 - How can we use technology to create calm experiences?
-</div>
-
----
-
-### Undivided Attention
-<div class="notes">
-- Trying to go towards technology that does not *require* our undivided attention
 </div>
 
 
