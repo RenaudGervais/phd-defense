@@ -344,6 +344,7 @@ Does pointing in SAR follow Fitts' law?
 
 ### Procedures
 <video data-autoplay controls class="stretch" src="./img/video.mp4"></video>
+<div class="footnote" style="position: fixed; bottom:-50px; left: 225px;">[@MacKenzie1992]</div>
 
 <div class="notes">
 1. Position cursor in starting zone
