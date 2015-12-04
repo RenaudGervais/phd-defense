@@ -484,6 +484,28 @@ Working on a physical object becomes the same thing as working on a virtual vers
 
 ## {data-background="./img/tports-video-teaser-unbounded.png"}
 
+---
+
+### Towards the Desk as a Working Space
+
+---
+
+### Direct-Indirect Combination
+<img src="./img/conclusion-direct-indirect-combination-direct.png" height="400px">
+<img src="./img/conclusion-direct-indirect-combination-indirect.png" height="400px">
+
+---
+
+### Improvised Working Surfaces
+<img src="./img/conclusion-improvised-working-surfaces-1.png" height="250px">
+<img src="./img/conclusion-improvised-working-surfaces-2.png" height="250px">
+
+
+<img src="./img/conclusion-improvised-working-surfaces-3.png" height="250px">
+<img src="./img/conclusion-improvised-working-surfaces-4.png" height="250px">
+
+
+
 
 
 # Introspection {data-background="./img/tobe-coherence-wo-title.png"}
@@ -691,30 +713,17 @@ How to use these augmented objects to better know ourselves and others better?
 
 # <!-- What's next? --> {data-background="./img/scanning-the-horizon.jpg"}
 
----
 
-### Towards the Desk as a Working Space
-
----
-
-### Direct-Indirect Combination
-<img src="./img/conclusion-direct-indirect-combination-direct.png" height="400px">
-<img src="./img/conclusion-direct-indirect-combination-indirect.png" height="400px">
-
----
-
-### Improvised Working Surfaces
-<img src="./img/conclusion-improvised-working-surfaces-1.png" height="250px">
-<img src="./img/conclusion-improvised-working-surfaces-2.png" height="250px">
+## <!-- The Real World --> {data-background="./img/conclusion-real-world.jpg"}
+<div class="notes">
+I think that we should not have to choose between being *here* and going to wonderland.
+</div>
 
 
-<img src="./img/conclusion-improvised-working-surfaces-3.png" height="250px">
-<img src="./img/conclusion-improvised-working-surfaces-4.png" height="250px">
+## <!-- Being / Doing --> {data-background="./img/being-and-doing.png"}
 
 
----
-
-### Designing for Calm and Wellbeing
+### Designing for Calmness and Wellbeing
 <div class="notes">
 - How can we use technology to create calm experiences?
 </div>
@@ -725,15 +734,6 @@ How to use these augmented objects to better know ourselves and others better?
 <div class="notes">
 - Trying to go towards technology that does not *require* our undivided attention
 </div>
-
-
-## <!-- The Real World --> {data-background="./img/conclusion-real-world.jpg"}
-<div class="notes">
-I think that we should not have to choose between being *here* and going to wonderland.
-</div>
-
-
-## <!-- Being / Doing --> {data-background="./img/being-and-doing.png"}
 
 
 
