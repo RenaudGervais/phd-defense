@@ -475,13 +475,14 @@ Working on a physical object becomes the same thing as working on a virtual vers
 
 ---
 
-### Objects in Sync
-<img src="./img/tports-dataviz.jpg" height="500px">
+### Text Annotations
+<img src="./img/tports-text.jpg" height="500px">
 
 ---
 
-### Text Annotations
-<img src="./img/tports-text.jpg" height="500px">
+### Complementary Representations
+<img src="./img/tports-dataviz.jpg" height="500px">
+<div class="footnote" style="position: fixed; bottom:-50px; left: 250px;">[@Jansen2013]</div>
 
 
 ## {data-background="./img/tports-video-teaser-bounded.png"}
@@ -508,6 +509,15 @@ Working on a physical object becomes the same thing as working on a virtual vers
 
 <img src="./img/conclusion-improvised-working-surfaces-3.png" height="250px">
 <img src="./img/conclusion-improvised-working-surfaces-4.png" height="250px">
+
+
+---
+
+<img src="./img/augmented-object-interaction.png" height="450px">
+
+---
+
+<img src="./img/augmented-object-input-output.png" height="600px">
 
 
 
