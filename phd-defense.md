@@ -137,7 +137,7 @@ Uses projectors or screens *in the environments* to display information spatiall
 ---
 
 ### Augmented Objects
-<img src="./img/augmented-object-input-output.png" height="500px">
+<img src="./img/augmented-object-input-output.png" height="600px">
 <div class="notes">
 My objective is to move towards a real-world experience without having to remove technology.
 Twofold:
@@ -149,6 +149,8 @@ Twofold:
 
 ### Interaction
 How can we *interact* with digital content hosted on physical objects?
+
+<img src="./img/augmented-object-interaction.png" height="400px">
 
 ---
 
@@ -208,7 +210,7 @@ main thread.
 ### Introspection
 How can we use augmented objects to reveal hidden information about *our own selves*?
 
-<img src="./img/augmented-object-input-output.png" height="300px">
+<img src="./img/augmented-object-introspection.png" height="400px">
 
 
 ---
