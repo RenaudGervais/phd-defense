@@ -258,13 +258,14 @@ Complexity: Calibration with multiple devices (esp. /w multi-proj setup)
  -->
 
 
-# Interaction
+# Interaction {data-background="./img/augmented-object-interaction-bg.png"}
 
 
+## <!-- Hybrid Workspaces --> {data-background="./img/tports-hybrid-workspaces.png"}
 
+## {data-background="./img/cursar-teaser.png"}
 
-
-# Pointing in SAR {data-background="./img/cursar-cube-pointer-drawing.png"}
+## Pointing in SAR {data-background="./img/cursar-cube-pointer-drawing.png"}
 
 
 ## {data-transition="fade"}
@@ -417,10 +418,7 @@ Note: $R^2=0.8479$
 
 
 
-# <!-- Hybrid Workspaces --> {data-background="./img/tports-hybrid-workspaces.png"}
-
-
-## {data-background="./img/tports-video-teaser.png" data-transition="fade"}
+## <!-- Tangible Viewports --> {data-background="./img/tports-video-teaser.png" data-transition="fade"}
 
 <div class="notes">
 - We continued our investigation varying the different way to leverage the screen context
