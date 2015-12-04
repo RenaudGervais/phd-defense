@@ -640,9 +640,8 @@ How to use these augmented objects to better know ourselves and others better?
 <!-- <video controls class="stretch" src="./img/tobe.mp4"></video> -->
 
 
----
 
-### Metrics
+## Metrics {data-background="./img/tobe-gui.jpg"}
 
 ---
 
@@ -663,13 +662,13 @@ How to use these augmented objects to better know ourselves and others better?
 
 ---
 
-### Feedback: Support
+### 3D Printing
 <img src="./img/tobe-potato.jpg" height="500px">
 
 
 
 ## {data-background="./img/tobe-tablet-window.jpg"}
-### Feedback: Shape {style="color: #eee;"}
+### Feedback {style="color: #eee;"}
 
 ---
 
@@ -680,10 +679,6 @@ How to use these augmented objects to better know ourselves and others better?
 ## {data-background="./img/tobe-animator.jpg"}
 ### Customization {style="color: #eee;"}
 
-
-
-## {data-background="./img/tobe-tablet-window.jpg"}
-### Customization {style="color: #eee;"}
 
 
 ## {data-background="./img/tobe-coherence.jpg"}
