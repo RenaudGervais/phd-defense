@@ -706,13 +706,10 @@ How to use these augmented objects to better know ourselves and others better?
 I think that we should not have to choose between being *here* and going to wonderland.
 </div>
 
-
-## <!-- Being / Doing -->
-<img src="./img/being-and-doing.png">
-
 ---
 
 ### Designing for Calmness and Wellbeing
+<img src="./img/being-and-doing.png">
 <div class="notes">
 - How can we use technology to create calm experiences?
 </div>
