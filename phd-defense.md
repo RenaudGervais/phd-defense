@@ -593,17 +593,8 @@ How to use these augmented objects to better know ourselves and others better?
 
 ---
 
-### Features
-
----
-
 ### Synchronized Blinks
 <video controls data-autoplay loop src="./img/teegi_blinks.mp4" height=500px></video>
-
----
-
-### Inverse Model
-<img src="./img/teegi-inverse-model.jpg" height="500px">
 
 ---
 
