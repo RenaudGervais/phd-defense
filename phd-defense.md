@@ -136,8 +136,8 @@ Uses projectors or screens *in the environments* to display information spatiall
 
 ---
 
-### Back to the Real World
-<img src="./img/augmented-object-input-output.png" height="400px">
+### Augmented Objects
+<img src="./img/augmented-object-input-output.png" height="500px">
 <div class="notes">
 My objective is to move towards a real-world experience without having to remove technology.
 Twofold:
@@ -207,6 +207,9 @@ main thread.
 
 ### Introspection
 How can we use augmented objects to reveal hidden information about *our own selves*?
+
+<img src="./img/augmented-object-input-output.png" height="300px">
+
 
 ---
 
@@ -693,7 +696,7 @@ How to use these augmented objects to better know ourselves and others better?
 
 
 ## Contributions
-<img src="./img/augmented-object-input-output.png" height="400px">
+<img src="./img/augmented-object-input-output.png" height="500px">
 
 
 ## Interaction
@@ -722,6 +725,7 @@ I think that we should not have to choose between being *here* and going to wond
 
 ## <!-- Being / Doing --> {data-background="./img/being-and-doing.png"}
 
+---
 
 ### Designing for Calmness and Wellbeing
 <div class="notes">
