@@ -64,17 +64,6 @@ We **know** how it works
 <div class="footnote">[@Ishii1997]<br>[@Ishii2012]</div>
 
 
-## Augmented Objects
-<img src="./img/intro-mug.png" height="500px">
-<span style="display:inline-block; width: 50px;"></span>
-<img src="./img/intro-mug-augmented.png" height="500px">
-<div class="notes">
-- For example, we can augment a normal mug with different functions:
-    + Displaying remaining steeping time
-    + Displaying temperature of liquid inside
-    + Handle turns green when everything is OK
-</div>
-
 ---
 
 ### Augmented Reality
@@ -113,6 +102,19 @@ Uses projectors or screens *in the environments* to display information spatiall
 <div class="notes">
 - Creates augmented mug
 </div>
+
+
+## Augmented Objects
+<img src="./img/intro-mug.png" height="500px">
+<span style="display:inline-block; width: 50px;"></span>
+<img src="./img/intro-mug-augmented.png" height="500px">
+<div class="notes">
+- For example, we can augment a normal mug with different functions:
+    + Displaying remaining steeping time
+    + Displaying temperature of liquid inside
+    + Handle turns green when everything is OK
+</div>
+
 
 ---
 
@@ -709,7 +711,6 @@ I think that we should not have to choose between being *here* and going to wond
 ---
 
 ### Designing for Calmness and Wellbeing
-<img src="./img/being-and-doing.png">
 <div class="notes">
 - How can we use technology to create calm experiences?
 </div>
@@ -720,6 +721,12 @@ I think that we should not have to choose between being *here* and going to wond
 
 
 ## {data-background="./img/camping.jpg"}
+
+---
+
+<img src="./img/being-and-doing.png">
+
+
 
 
 # Thank You {data-background="./img/logos.png"}
