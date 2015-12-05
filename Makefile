@@ -16,6 +16,6 @@ all:
 	-V width:"1280" \
 	-V height:"720" \
 	-V pagetitle:"Getting Out of Flatland" \
-	-V slideNumber:"'h.v'" \
+	-V slideNumber:"'h-v'" \
 	-V controls:"false" \
 	-o $(OUT)
