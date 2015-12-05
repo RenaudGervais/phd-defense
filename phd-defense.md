@@ -705,25 +705,38 @@ How to use these augmented objects to better know ourselves and others better?
 
 ## <!-- The Real World --> {data-background="./img/conclusion-real-world.jpg"}
 <div class="notes">
-I think that we should not have to choose between being *here* and going to wonderland.
+I am very much interested continuing bringing technology closer to the real world
 </div>
 
 ---
 
 <img src="./img/being-and-doing.png">
+<div class="notes">
+Because technology has had this tendency to focus on *doing* while part of the human experience is not only about *achieving* but also about *being*.
+
+But I know that the times in my life I felt most alive is when I actually leave technology behind, like
+</div>
 
 
 ## {data-background="./img/tandem.jpg"}
+<div class="notes">
+when I go on a self-supported bike tour with Dominique for a few weeks, juste pedaling all day
+</div>
 
 
 ## {data-background="./img/camping.jpg"}
+<div class="notes">
+and stoping at night to cook and sleep in a tent. When you are out there, you never miss technology.
+
+But when you come back, even if you're still in holidays, technology grabs you back in such a way that you loose this sense of calm you had.
+</div>
 
 
 ---
 
 ### Designing for Calmness and Wellbeing
 <div class="notes">
-- How can we use technology to create calm experiences?
+I think we should not have to choose between calm and technology. We should strive to have technology not only to create engagement and completing tasks, but also enabling us to feel calm at times.
 </div>
 
 
