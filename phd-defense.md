@@ -267,7 +267,6 @@ Complexity: Calibration with multiple devices (esp. /w multi-proj setup)
 
 ## {data-background="./img/cursar-teaser.png"}
 
-## Pointing in SAR {data-background="./img/cursar-cube-pointer-drawing.png"}
 
 
 ## {data-transition="fade"}
@@ -281,6 +280,7 @@ Complexity: Calibration with multiple devices (esp. /w multi-proj setup)
 <img src="./img/cursar-virtual-pointing-no-screen.png" height="500px">
 <p class="fragment">Does pointing still works without a screen?</p>
 
+## Pointing in SAR {data-background="./img/cursar-cube-pointer-drawing.png"}
 
 ## Study
 
