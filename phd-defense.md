@@ -710,11 +710,7 @@ I think that we should not have to choose between being *here* and going to wond
 
 ---
 
-### Designing for Calmness and Wellbeing
-<div class="notes">
-- How can we use technology to create calm experiences?
-</div>
-
+<img src="./img/being-and-doing.png">
 
 
 ## {data-background="./img/tandem.jpg"}
@@ -722,10 +718,13 @@ I think that we should not have to choose between being *here* and going to wond
 
 ## {data-background="./img/camping.jpg"}
 
+
 ---
 
-<img src="./img/being-and-doing.png">
-
+### Designing for Calmness and Wellbeing
+<div class="notes">
+- How can we use technology to create calm experiences?
+</div>
 
 
 
