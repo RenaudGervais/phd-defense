@@ -168,9 +168,10 @@ How can we *interact* with digital content hosted on physical objects?
 <img src="./img/miragetable.jpg" height="400px">
 <div class="footnote" style="position: fixed; bottom:-100px; left: 100px;">[@Marner2009]<br>[@Benko2012]</div>
 
----
 
-### Direct Vs. Indirect
+
+
+## {data-background="./img/cursar-teaser.png"}
 <div class="notes">
 - Show pointing on real object using direct touch
 - Tangible interaction is sometimes not enough
@@ -180,12 +181,6 @@ How can we *interact* with digital content hosted on physical objects?
 </div>
 
 
-## {data-background="./img/cursar-teaser.png"}
-
-<div class="notes">
-- We focus on the creation of *hybrid environments*
-- Desktop computers are still good platforms for content creation
-</div>
 
 ---
 
@@ -280,9 +275,7 @@ Complexity: Calibration with multiple devices (esp. /w multi-proj setup)
 <img src="./img/cursar-virtual-pointing-no-screen.png" height="500px">
 <p class="fragment">Does pointing still works without a screen?</p>
 
-## Pointing in SAR {data-background="./img/cursar-cube-pointer-drawing.png"}
-
-## Study
+## Study {data-background="./img/cursar-cube-pointer-drawing.png"}
 
 ---
 
