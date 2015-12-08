@@ -734,9 +734,11 @@ I think we should not have to choose between calm and technology. We should stri
 
 
 # Thank You {data-background="./img/logos.png"}
-renaudgervais.github.io
 
-<small>These slides are available online at <br> renaudgervais.github.io/presentations</small>
+## {data-background="./img/summary-final.png"}
+
+
+
 
 # 
 
